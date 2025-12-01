@@ -47,7 +47,7 @@ L’ensemble des salles EVA sont réparties en 6 régions différentes et chacun
 Le TN est un tournoi spécifique aux Ligues Locales, réservé aux équipes s’étant placées à la première et seconde place de chaque TR. Ce tournoi a pour but de faire s’affronter ces équipes pour une ultime étape de sélection.  
 Les gagnants de ce TN seront considérés comme les meilleures équipes de Ligues Locales de France.
 
-D’office, les deux meilleures de ces équipes sont qualifiées en EVA LIGUE 2\. Plus tard dans l’année, les deux suivantes joueront un match barrage face aux septième et huitième équipes d’EVA LIGUE 2\.
+D’office, les deux meilleures de ces équipes sont qualifiées en EVA LIGUE 2\. Début 2026, les deux suivantes joueront un match barrage face aux septième et huitième équipes d’EVA LIGUE 2\.
 
 Ce TN a lieu le **07 Décembre 2025** à EVA Paris-Est.
 
