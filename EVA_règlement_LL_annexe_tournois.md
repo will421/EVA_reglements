@@ -259,7 +259,7 @@ L’équipe la mieux seedée est considérée comme l’équipe gagnante du pile
 
 **Choix du side et personnage joué**
 
-L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (trooper ou mecha ou rogue **ONLY**) joué par les deux équipes.
+L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (trooper **ONLY**) joué par les deux équipes.
 
 **Alternance de ban et de picks de cartes**
 
@@ -291,7 +291,7 @@ L’équipe Away sélectionne la carte de la partie 3
 
 **Choix du side et personnage joué**
 
-L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (trooper ou mecha ou rogue **ONLY**) joué par les deux équipes.
+L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (trooper **ONLY**) joué par les deux équipes.
 
 **Alternance de ban et de picks de cartes**
 
