@@ -11,6 +11,7 @@
 | *15/09/2025* | *Conséquence du pile ou face identique aux EVA Ligues* |
 | *26/09/2025* | *Suppression de la qualification d’office des équipes Home & Away* |
 | *29/10/2025* | *Sonar et Spectre jouable en compétition dès le 1er Novembre* |
+| *18/12/2025* | *Répartition des points mise à jour* |
 
 1. # **Généralités**
 
@@ -216,36 +217,33 @@ Dans le cas où au moins deux équipes seraient encore à égalité à l’issue
 
 Points attribués par classement dans chaque division, à chaque Étape et cumulatif avec les précédentes Étapes.
 
-La première valeur représente les points attribués pendant le Segment 1\.   
-La seconde valeur représente les points attribués pendant le Segment 2\.
-
 #### Division 1 (valeur la plus élevée) :
 
 * **1er** : 100 points   
-* **2ème** : 80 points  
-* **3ème** : 60 points  
-* **4ème (dernier)** : 40 points
+* **2ème** : 85 points  
+* **3ème** : 70 points  
+* **4ème (dernier)** : 55 points
 
 #### Division 2 :
 
-* **1er** : 70 points  
-* **2ème** : 55 points  
-* **3ème** : 45 points  
-* **4ème (dernier)** : 30 points
+* **1er** : 60 points  
+* **2ème** : 50 points  
+* **3ème** : 40 points  
+* **4ème (dernier)** : 35 points
 
 #### Division 3 :
 
-* **1er** : 50 points   
-* **2ème** : 40 points  
-* **3ème** : 30 points  
+* **1er** : 35 points   
+* **2ème** : 30 points  
+* **3ème** : 25 points  
 * **4ème (dernier)** : 20 points
 
 #### Division 4 :
 
-* **1er** : 35 points  
-* **2ème** : 25 points  
-* **3ème** : 15 points  
-* **4ème (dernier)** : 10 points
+* **1er** : 20 points  
+* **2ème** : 15 points  
+* **3ème** : 10 points  
+* **4ème (dernier)** : 5 points
 
 # 
 
