@@ -882,7 +882,7 @@ Certaines données sont collectées et traitées par Toornament lors de l’insc
 
 5. ## **Droit des personnes concernées par le traitement.**
 
-Le participant est informé qu’il dispose d’un droit d’accès, de rectification, d’effacement et de portabilité des données à caractère personnel qui le concernent, ainsi qu’un droit de s’opposer ou de et à la limitation du traitement le concernant dans les conditions et limites prévues par la réglementation. Le participant dispose également du droit de définir des directives relatives au sort de ses données à caractère personnel après sa mort. Le participant peut exercer ses droits via les coordonnées de contact suivantes : [tournois@webedia-group.com](mailto:tournois@webedia-group.com).
+Le participant est informé qu’il dispose d’un droit d’accès, de rectification, d’effacement et de portabilité des données à caractère personnel qui le concernent, ainsi qu’un droit de s’opposer ou de et à la limitation du traitement le concernant dans les conditions et limites prévues par la réglementation. Le participant dispose également du droit de définir des directives relatives au sort de ses données à caractère personnel après sa mort. Le participant peut exercer ses droits via les coordonnées de contact suivantes : [esports@eva.gg](mailto:esports@eva.gg).
 
 6. ## **Délégué à la protection des données.**
 
