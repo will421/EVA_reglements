@@ -1,23 +1,15 @@
-**Règlement Ligue Locale 2025**
+**Règlement Ligue Locale 2026**
 
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
-| *09/07/2025* | *Suppression d’une date de mercato (Novembre) Ajout d’une date de mercato (Août)* |
-| *21/07/2025* | *Ajout de la map Horizon (jouable à partir d'Août 2025\) Interdiction de jouer l’arme Spectre et grenade Sonar* |
-| *28/07/2025* | *Correction quant à la diffusion des scrims : possible si validation des deux parties* |
-| *12/08/2025* | *Mise à jour (et ajouts) d’interdit in-game Application des mêmes règles de forfaits et remake qu’en EVA Ligues* |
-| *13/08/2025* | *Alignement avec les EVA Ligues sur le nombre de participation aux matchs avant de ne plus pouvoir jouer dans la LL et dans l’EVA Ligue (interdit à partir de 2 matchs)* |
-| *15/09/2025* | *Conséquence du pile ou face identique aux EVA Ligues* |
-| *26/09/2025* | *Suppression de la qualification d’office des équipes Home & Away* |
-| *29/10/2025* | *Sonar et Spectre jouable en compétition dès le 1er Novembre* |
-| *18/12/2025* | *Répartition des points mise à jour* |
+| *15/01/2026* | *Ajustement des dates de mercato Mise à jour des circuits de compétitions Facilité de changement de joueur dans les nouvelles salles Pricing des tokens par joueur ou par équipe Ajout du cosmonaute comme perso’ jouable Suppression de la restriction de résidence Placement dans les LL en fonction des classements au points obligatoire (à partir de Split 2 2026\) Impossibilité d’être inscrit en équipe de LL et d’EVA League* |
 
 1. # **Généralités**
 
-   1. ## **Organisateurs**
+   1. # **Organisateurs**
 
-La société EVA (smartVR Studio), inscrite au R.C.S. de Bobigny sous le numéro 834 704 447, dont le siège social est situé 145 boulevard Chanzy, 93100 Montreuil, France (ci-après “**EVA**” ou “**Organisateur National**”), organise, en partenariat avec les différentes salles franchisées du réseau EVA situées en France (ci-après, individuellement une “**Salle EVA**” et collectivement les “**Co-Organisateurs**”), une multitudes de compétitions intitulées “**Ligue Locale**” ou “**Tournoi**”, se déroulant de janvier 2025 à octobre 2025 dans les locaux des différentes Salles EVA.
+La société EVA (smartVR Studio), inscrite au R.C.S. de Bobigny sous le numéro 834 704 447, dont le siège social est situé 145 boulevard Chanzy, 93100 Montreuil, France (ci-après “**EVA**” ou “**Organisateur National**”), organise, en partenariat avec les différentes salles franchisées du réseau EVA situées en France (ci-après, individuellement une “**Salle EVA**” et collectivement les “**Co-Organisateurs**”), une multitudes de compétitions intitulées “**Ligue Locale**” ou “**Tournoi**”, se déroulant de janvier 2026 à décembre 2026 dans les locaux des différentes Salles EVA.
 
 Chaque Salle EVA organise localement sa propre Ligue Locale dans le respect du présent règlement commun à l’ensemble des Ligues Locales (ci-après le “**Règlement**”).
 
@@ -33,10 +25,7 @@ Le **Règlement** s’impose à :
 
   2. ## **Règlement officiel**
 
-La **Ligue Locale** est un circuit compétitif composé de plusieurs segments de plusieurs étapes (ci-après les “**Segments & Étapes**”) se jouant exclusivement en présentiel et requérant la présence des joueurs au sein de la salle du Co-Organisateur, voire d’une salle de l’Organisateur. Chaque **Étape** récompense les équipes de points (ci-après la “**Répartition des points**”) qui déterminent un classement au sein de la Ligue Locale ainsi qu’un classement National avec les équipes des autres Ligues Locales.  
-Ce classement est affiché publiquement sur le site ‘competitive.eva.gg’. La ou les équipes les mieux classées de chaque Ligue Locale peuvent prétendre participer à des compétitions nationales.
-
-En vous inscrivant ou en participant à la Ligue Locale, vous acceptez l’ensemble des stipulations du Règlement.
+La **Ligue Locale** est un type de tournoi spécifique s’intégrant dans deux circuits compétitifs composé de plusieurs segments de plusieurs étapes (ci-après les “**Segments & Étapes**”), cette dernière se jouant exclusivement en présentiel et requérant la présence des joueurs au sein de la salle du Co-Organisateur, voire d’une salle de l’Organisateur National. En vous inscrivant ou en participant à la Ligue Locale, vous acceptez l’ensemble des stipulations du Règlement.
 
 Aucun achat, de quelque type que ce soit, ne permettra d’augmenter les chances de remporter la Ligue Locale. Les chances de remporter la Ligue Locale reposent exclusivement sur l’adresse, le talent et les compétences individuelles de chaque participant.
 
@@ -46,17 +35,13 @@ Aucun achat, de quelque type que ce soit, ne permettra d’augmenter les chances
 
 Les Organisateurs désignent des administrateurs en charge de la gestion de la Ligue Locale (les “**Administrateurs**”). 
 
-Les Organisateurs et les Administrateurs sont seuls compétents pour prendre toute mesure nécessaire au bon déroulement de la Ligue Locale, incluant la modification du format, l’adaptation du code de conduite ou encore la prise de sanctions disciplinaires à l’encontre de participants ayant enfreint le code de conduite ou ayant adopté un comportement nuisible vis-à-vis des autres participants, des Organisateurs, des Administrateurs, ou des tiers en général. Les décisions prises par les Organisateurs ou par les Administrateurs au cours de la Ligue Locale sont immédiatement applicables et s’imposent aux participants.
+Les Organisateurs et les Administrateurs sont seuls compétents pour prendre toute mesure nécessaire au bon déroulement de la Ligue Locale, incluant l’adaptation du code de conduite ou encore la prise de sanctions disciplinaires à l’encontre de participants ayant enfreint le code de conduite ou ayant adopté un comportement nuisible vis-à-vis des autres participants, des Organisateurs, des Administrateurs, ou des tiers en général. Les décisions prises par les Organisateurs ou par les Administrateurs au cours de la Ligue Locale sont immédiatement applicables et s’imposent aux participants.
 
 3. # **Conditions d’éligibilité générales**
 
 Les Participants souhaitant participer à la Ligue Locale doivent respecter les conditions d’éligibilité indiquées ci-après. Les Organisateurs se réservent le droit, à leur seule discrétion, de vérifier les conditions d’éligibilité des Participants par tout moyen raisonnable et ce, à toute étape de la Ligue Locale.
 
-1. ## **Conditions de résidence**
-
-La participation au Tournoi est ouverte à toute personne physique dont la résidence principale est située en France métropolitaine pour le Tournoi ayant lieu en France et en Belgique pour le Tournoi ayant lieu en Belgique.
-
-2. ## **Conditions d’âge**
+1. ## **Conditions d’âge**
 
 Pour valider leur participation au Tournoi, les Participants doivent être âgés d’au moins 12 ans à compter de la date de début de leur premier match à jouer.
 
@@ -66,75 +51,79 @@ Un exemple d’autorisation parentale est disponible à cette adresse : [\[lien\
 
 Les Participants mineurs doivent envoyer cette autorisation parentale aux Organisateurs à l’adresse suivante : [esports@eva.gg](mailto:esports@eva.gg) 
 
-3. ## **Composition des équipes**
+2. ## **Composition des équipes**
 
 Les équipes sont composées de 4 à 7 joueurs (un capitaine ainsi que 3 à 6 joueurs) éligibles à la participation en Ligue Locale.   
 Sont considérés **inéligibles** à la participation en Ligue Locale les joueurs : 
 
-- titulaires d’EVA Ligues,    
-- les remplaçants des équipes d’EVA Ligues ayant effectué deux (2) matchs ou plus avec celles-ci (si ces matchs ont eu lieu lors du Split 1, le remplaçant est inéligible à l’inscription en Ligue Locale sur les mois de Juin et Juillet.)  
+- Inscrits dans une équipe d’EVA Ligues,    
 - tout Participants inscrit ou ayant été inscrit au sein d’une autre Ligue Locale durant le même Segment (Split),   
-- tout Participants inscrit au sein d’une autre équipe engagée dans la même Ligue Locale ou l’ayant été lors de l’étape du Tournoi la plus récente (peu importe la division joué),  
+- tout Participants inscrit au sein d’une autre équipe engagée dans la même Ligue Locale lors de l’étape en cours ou précédente.   
 - ainsi que toute personne faisant l’objet d’une sanction esportive précisant l’interdiction spécifique ou non de participer à une compétition esportive EVA.
+
+Pour les salles effectuant leur deux premiers mois de compétition, le troisième critère d’éligibilité est assouplie en enlevant la mention “ou précédente”. 
 
 L’inscription d’une équipe en Ligue Locale engage chaque joueur de cette équipe à participer au Tournoi. 
 
 La composition de l’équipe peut être complétée (jusqu’à 7 joueurs max dans l’équipe) par des joueurs **éligible**. Toute modification doit être annoncée au Co-Organisateur 72h à l’avance et en fournissant les informations nécessaires à l’ajout d’un joueur dans l’inscription de l’équipe.
 
-Toutefois, au minimum deux joueurs de la composition initiale doivent rester inchangés d’une Étape à l’autre du même Segment. A défaut, les points remportés par l’équipe durant le Tournoi pourront être annulés.
+Au minimum deux joueurs de la composition initiale doivent rester inchangés d’une Étape à l’autre du même Segment. A défaut, les points remportés par l’équipe durant le Tournoi pourront être annulés.
 
-Trois fois dans l’année, l’historique d’inscription en Ligue Locale de tous les Participants sera effacé, libérant chacun de leur engagement au sein des Ligues Locales. Les historiques seront supprimés aux dates suivantes : 
+A partir de **Janvier 2027**, une équipe de Ligue Locale ne peut contenir au plus que deux personnes dont l’activité professionnelle principale s’effectue au sein d’une salle EVA.
 
-\- 01/05/2025 (\#1)
+Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tous les Participants sera effacé, libérant chacun de leur engagement au sein des Ligues Locales. Les historiques seront supprimés aux dates suivantes : 
 
-\- 01/08/2025 (\#2)
+\- 01/05/2026 (\#1)\*
 
-\- 31/12/2025 (\#3)
+\- 31/12/2026 (\#2)
 
-4. ## **Nom des Participants.**
+\*pour les équipes engagés aux Tournois Régionaux, leur historique sera réinitialisé suite à leur élimination de ces TR
+
+3. ## **Nom des Participants.**
 
 Le nom, le logo, ou tout élément officiel représentant l’équipe ou le participant ne doit pas contenir de contenu offensant, insultant, injurieux, menaçant, abusif, vulgaire, obscène, sexuel, raciste, diffamatoire, contraire ou de nature à porter atteinte aux intérêts de chacun des Organisateurs, des partenaires de la Ligue Locale, et plus généralement tout élément contraire à l’éthique, aux valeurs esportives, ou répréhensible par une disposition législative ou réglementaire en vigueur.
 
 Le nom de l’équipe peut être modifié par le capitaine de l’équipe sous réserve d’en notifier les Organisateurs dans un délai raisonnable. Les Organisateurs pourront néanmoins refuser toute demande de modification jugée abusive et/ou répétée.  
 Il revient au Co-Organisateur de rétro-acter ce changement de nom sur les potentielles étapes à laquelle l’équipe a participé.
 
-Les participants doivent conserver le même identifiant de compte pour toutes les compétitions auxquelles ils participent, pendant toute la durée de la Ligue Locale. Tout changement d’identifiant non autorisé par les Organisateurs peut entraîner une sanction disciplinaire et le cas échéant, la disqualification de la Ligue Locale et la perte de ses titres et victoires.
+Les participants doivent conserver le même identifiant de compte (compte [EVA.GG](http://EVA.GG) et pseudo courant du joueur) pour toutes les compétitions auxquelles ils participent, pendant toute la durée de la Ligue Locale. Il est fortement recommandé de précéder son pseudo par une abréviation de son nom d’équipe suivi d’un “x”, abréviation qui peut être modifiée librement tant qu’elle représente l’équipe à laquelle le joueur appartient.   
+Tout changement d’identifiant non autorisé par les Organisateurs peut entraîner une sanction disciplinaire et le cas échéant, la disqualification de la Ligue Locale et la perte de ses titres et victoires.
 
 Un joueur est un membre de l’équipe, une personne physique pouvant participer aux rencontres de la Ligue Locale.
 
 Un capitaine est la personne qui représente la parole de l’ensemble des membres de l’équipe. Il parle au nom de ses coéquipiers, c’est lui qui aura la responsabilité de choisir les cartes jouées pendant les rencontres. Par défaut, c'est aussi cette personne qui répond aux questions en interview. 
 
-Une équipe est l’ensemble des joueurs dont le capitaine. Chaque équipe doit avoir un représentant légal, une entité (structure) doit désigner une personne morale qui sera définit comme référent auprès des Organisateurs. Cette personne sera le seul interlocuteur auprès d’EVA pour tous les sujets concernant les décisions prises pour/envers l’équipe. En cas de conflits internes, seule la parole de cette personne sera prise en compte par les Organisateurs.
+Une équipe est l’ensemble des joueurs dont le capitaine. Chaque équipe doit avoir un représentant légal ou une entité (structure) qui désigne une personne morale qui sera définie comme référente auprès des Organisateurs. Cette personne sera le seul interlocuteur auprès d’EVA pour tous les sujets concernant les décisions prises pour/envers l’équipe. En cas de conflits internes, seule la parole de cette personne sera prise en compte par les Organisateurs.
 
 ## 
 
-5. ## **Présence physique des participants**
+4. ## **Présence physique des participants**
 
 Compte tenu du caractère particulier du Jeu Vidéo (en réalité virtuelle avec un équipement spécifique), les participants devront être physiquement présents dans la salle du Co-Organisateur pour participer à chaque match de Ligue Locale.
 
-6. ## **Comptes nécessaires**
+5. ## **Comptes nécessaires**
 
 Pour participer à la Ligue Locale, les Participants doivent posséder un compte TOORNAMENT ([https://www.toornament.com/](https://www.toornament.com/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un battlepass EVA ([https://app.eva.gg/fr-FR/battlepass](https://app.eva.gg/fr-FR/battlepass)) .
 
-7. ## **Temps de jeu au sein de la salle**
+6. ## **Temps de jeu au sein de la salle**
 
 Le battlepass de chaque Participant doit être affilié à la salle au sein de laquelle il veut participer à la Ligue Locale. Pour ce faire, le joueur doit dépenser la majorité de ses sessions battlepass au sein de la salle réalisant ladite Ligue Locale.
 
-8. ## **Situation sanitaire**
+7. ## **Situation sanitaire**
 
 En cas d’évolution de la réglementation relative à la situation sanitaire, EVA se réserve le droit de modifier ou d’adapter son dispositif d’accueil pour accéder à la salle permettant de participer à la Ligue Locale et le cas échéant, subordonner l’accès à la présentation d’un pass sanitaire ou vaccinal valide, au port du masque, etc.
 
-9. ## **Restrictions**
+8. ## **Restrictions**
 
 Les Organisateurs se réservent le droit de refuser la participation à la Ligue Locale à toute personne ayant fait l’objet d’une sanction, de quelque nature qu’elle soit et quelle qu’en soit la raison, prononcée par l’un des Organisateurs ou par tout autre organisateur au cours d’un autre tournoi.
 
-10. ## **Prix de participation**
+9. ## **Prix de participation**
 
-Chaque soirée de Ligue Locale oblige les équipes participantes à poser entre 4 et 12 sessions battlepass. Ce nombre de sessions est fixé par les gérants de la salle du Co-Organisateur.
+Chaque soirée de Ligue Locale oblige les équipes participantes à poser entre 4 et 12 sessions battlepass ou entre 1 à 3 sessions battlepass par joueur. Ce nombre de sessions est fixé par les gérants de la salle du Co-Organisateur.
 
 Il est du devoir du capitaine de s’assurer que les joueurs de l’équipe posent le nombre suffisant de sessions battlepass.
 
-11. ## **Respect des législations applicables**
+10. ## **Respect des législations applicables**
 
 Les équipes s’engagent à se conformer à la législation applicable et à obtenir pour chaque personne composant l’équipe l’ensemble des documents officiels nécessaires pour leur participation à la Ligue Locale (visas, permis de travail, autorisations gouvernementales, etc). Les Organisateurs ne sauraient être tenus responsables en cas de non-respect par une équipe ou un joueur des obligations légales et réglementaires applicables.
 
@@ -144,76 +133,54 @@ Les équipes s’engagent à se conformer à la législation applicable et à ob
 
    1. ## **Généralités**
 
-Le format de la Ligue Locale fonctionne par Segments contenant des Étapes mensuelles qui permettent de faire s’affronter les équipes participant à la Ligue Locale. Les équipes sont réparties en division, de la Division 1 et jusqu’à la Division 4\. La Division 1 contient les meilleures équipes de la Ligue Locale et la Division 4, les moins bonnes.  
-Chaque division contient jusqu’à 4 équipes.
+La Ligue Locale est une compétition ayant lieu tous les mois dans la salle du Co-Organisateur. Les équipes participantes à cette compétition sont réparties dans une ou plusieurs Divisions. Chaque Division contient jusqu’à quatre équipes. 
 
-Chaque Étape récompense les équipes d’un certain nombre de points comptabilisés pour leur classement au sein de la Ligue Locale et pour le classement face aux autres Ligues Locales.
+Chaque mois, une soirée de compétition est organisée pour chaque Division existante. Durant cette soirée, les équipes d’une même Division s’affrontent en match allé, en BO3.  
+A la fin de la soirée, le Co-Organisateur renseigne le classement final de la Division sur Toornament. Toutes les soirées de compétition d’une Ligue Locale durant un mois sont autrement appelées “Étape”.
 
-2. ## **Sélection des équipes en Ligue Locale**
+La Division 1 est considérée comme la Division d’une Ligue Locale comportant les meilleures équipes. Tous les mois, une montée descente a lieu entre les Divisions d’une même Ligue Locale. La dernière équipe de chaque Division descend dans la Division inférieure et la meilleure équipe monte dans la Division supérieure, se rapprochant de la Division 1\.
 
-Dans le cas où le nombre d’inscriptions serait trop élevé par rapport au nombre de places disponible dans la Ligue Locale, un tournoi ouvert pourra être organisé afin de sélectionner les équipes participant à la Ligue Locale.
-
-Par défaut, au début du second Segment de la Saison, le placement des équipes dans les Divisions se basera sur le classement des points remportés lors du Segment précédent au sein de la même Ligue Locale (1er à 4eme au classement des points en Division 1, 5eme au 8eme au classement des points en Division 2 …)
-
-La place de chaque équipe au sein des Divisions est réservée jusqu’au 1er du premier mois du Segment. Passé cette date, si une équipe ne s’est pas manifestée, elle perd sa place et sera considérée comme une toute nouvelle équipe.
-
-3. ## **Segments et Étapes**
-
-Chaque Étape fait s’affronter toutes les équipes d’une même division.
-
-Les affrontements s’effectuent sous le format d’un Round Robin, en match aller, en BO3.  
-A la fin de l’étape, chaque division doit avoir son propre classement qui a une incidence sur la répartition des équipes : 
-
-**Généralement**
-
-A la fin de l’Étape, la meilleure équipe de chaque Division monte dans la Division du dessus. A l’inverse, la moins bonne de chaque Division descend dans la Division du dessous.
-
-**Spécifiquement**
-
-Pour la Division 1, la meilleure gagne un titre et reste dans sa Division 1\.  
-Pour la Division 4, la moins bonne affronte une équipe hors-circuit désirant tenter sa chance en Ligue Locale. Le gagnant de cet affrontement obtient la quatrième place de la Division 4\.
+La Ligue Locale peut avoir lieu tous les mois de l’année et ne souffre d’aucune pause officielle.
 
 Dans tous les cas, le format de la Ligue Locale doit respecter les critères suivants : 
 
-1. Disposer d’au moins 1 division et jusqu'à’ 4  
-2. La Division 1 doit toujours contenir 4 équipes (sauf dérogation)  
-3. Chaque Division ne peut contenir plus de 4 équipes  
-4. Réaliser une unique étape par mois pour chaque division  
-5. Réaliser la confrontation des équipes d’une même division sous le format RoundRobin, match aller en BO3 (sauf dérogation)  
-6. Up & Down entre les divisions à chaque étape  
-   
+- Disposer d’au moins 1 division  
+- La Division 1 doit toujours contenir 4 équipes (sauf dérogation)  
+- Chaque Division ne peut contenir plus de 4 équipes  
+- Réaliser une unique étape par mois pour chaque division  
+- Réaliser la confrontation des équipes d’une même division sous le format RoundRobin, match aller en BO3  
+- Up & Down entre les divisions à chaque étape
 
-   4. ## **Critères de départages**
+  2. ## **Circuits compétitifs**
 
-Une fois tous les matchs joués et en cas d'égalité, les Administrateurs ont la possibilité d’appliquer les “critères de départage en cas d’égalité” ou bien de réaliser le minimum de matchs en BO3 nécessaires à la résolution de l’égalité.
+     1. **EVA REGIONAL CUPS**
 
-**Critères de départage en cas d’égalité :**
+L’EVA REGIONAL CUPS est un circuit compétitif dédié aux Ligues Locales Européennes.  
+L’Europe est divisée en quatre régions comportant au plus 16 salles participantes. Le détail du découpage des régions sera communiqué à la fin du premier trimestre 2026\.
 
-En cas d’égalité entre au moins deux équipes, les critères de départage suivants s’appliquent successivement pour déterminer le classement des équipes à égalité :
+Pour les Ligues Locales respectant les conditions d’accès, des points sont automatiquement attribués (ci-après “Répartition des points”) aux équipes en fonction du classement final de chaque Étape. Ce classement est affiché publiquement sur ‘[competitive.eva.gg](http://competitive.eva.gg)’. 
 
-1. la différence de manches (manches remportées moins manches perdues) après tous les matchs disputés contre toutes les équipes
+Ce circuit est divisé en deux splits. A chaque fin de split, l’Organisateur invite l’équipe avec le plus de points à un Tournoi Régional (TR), réunissant les meilleures équipes de sa région.  
+Au début de chaque split, les points de chaque équipe sont réinitialisés à zéro.
 
-2. L’équipe ayant le plus de victoire après tous les matchs disputés uniquement entre les équipes à égalités
+1. SPLIT 1
 
-   
+Le premier split de l’EVA REGIONAL CUPS a lieu de Janvier à Avril.  
+Les Tournois Régionaux (TR) ont lieu en Mai. Les trois meilleures équipes de ces TR recevront une invitation à participer à une compétition se déroulant en Septembre et qui sera mentionnée dans ce présent règlement courant du premier trimestre 2026\.
 
-3. L’équipe ayant le plus de scoring de capture \[%\] après tous les matchs disputés uniquement entre les équipes à égalités
+Pour qu’une Ligue Locale puisse participer à l’EVA REGIONAL CUPS sur ce split, elle doit être conforme au règlement et débuter sa Ligue Locale à partir de Février au plus tard.
 
-   
+2. SPLIT 2
 
-4. la différence de scoring de capture *\[%\]* (scores remportés moins scores perdus) après tous les matchs disputés contre toutes les équipes
+Le second split de l’EVA REGIONAL CUPS à lieu de Mai à Septembre.  
+Les tournois régionaux (TR) ont lieu en Octobre. Les deux meilleures équipes de ces TR recevront une invitation à participer au Last Chance Toornament.
 
-5. la plus grande moyenne de score cumulé par tous les joueurs de chaque équipe dans toutes les manches disputées uniquement entre les équipes à égalité
+Le Last Chance Toornament est un tournoi à 14 équipes ayant lieu le 29 Novembre 2026\. Ce tournoi fait s’affronter les huit équipes gagnantes des TR faces à six équipes de EVA League du bas de tableau.  
+Les équipes s’affronteront en Swiss Round et les huit meilleures équipes entreront/resteront en EVA League.
 
-6. la rapidité moyenne des rencontres pour les matchs disputés uniquement entre les équipes à égalité
+Pour qu’une Ligue Locale puisse participer à l’EVA REGIONAL CUPS sur ce split, elle doit être conforme au règlement et débuter sa Ligue Locale à partir de Juillet au plus tard.
 
-Il est entendu que pour chaque critère de départage utilisé, seules les équipes encore à égalité sont prises en considération pour le calcul du prochain critère de départage.
-
-Dans le cas où au moins deux équipes seraient encore à égalité à l’issue des différents critères de départage, un match ou un tournoi de départage sera organisé. Les équipes seront informées du format et des dates ultérieurement par les Organisateurs.
-
-5. ## **Répartition des Points**
-
-   1. Segment 1 | Segment 2
+3. Répartition des points
 
 Points attribués par classement dans chaque division, à chaque Étape et cumulatif avec les précédentes Étapes.
 
@@ -240,12 +207,83 @@ Points attribués par classement dans chaque division, à chaque Étape et cumul
 
 #### Division 4 :
 
-* **1er** : 20 points  
-* **2ème** : 15 points  
-* **3ème** : 10 points  
-* **4ème (dernier)** : 5 points
+1. **1er** : 20 points  
+2. **2ème** : 15 points  
+3. **3ème** : 10 points  
+4. **4ème (dernier)** : 5 points
 
-# 
+   2. **EVA VERSUS**
+
+L’EVA VERSUS est un circuit compétitif complémentaire aux Ligues Locales Européennes.  
+Ce circuit vise à récompenser les salles et les équipes par un cashprize total de 30.000€.
+
+Le circuit à lieu sur deux splits. 
+
+- Split 1 : Janvier à Juin  
+- Split 2 : Juillet à Décembre
+
+La moitié du cashprize total (15.000€) est donné en récompense du premier split, l’autre moitié en récompense du second split. Ce dernier est réparti entre les 10 meilleures salles du classement et partagé à 50% pour la salle et à 50% pour les équipes participantes (ci-après “Répartition du cashprize”).
+
+Consécutivement aux soirées de Divisions des Ligues Locales, les équipes participantes font jouer leur meilleure équipe du soir face à la meilleure équipe de la même Division d’une autre salle européenne. Ce match a lieu en Intersalle. L’équipe victorieuse fait remporter des points à sa salle (ci-après “Gains des points EVA Versus”). Si la salle adverse ne présente pas d’équipe, alors elle est déclarée forfait, donc perdante du match.
+
+L’intersalle est une manière spécifique de jouer à After-H Battle Arena. Les deux équipes d’une même partie sont sur deux arènes différentes. Dû aux spécificités techniques, la traversée du corps d’un joueur adverse devient possible.  
+**Cette pratique est strictement interdite.** 
+
+1. **Gains des points EVA Versus**
+
+- Division 1 \- 10 points  
+- Division 2 \- 8 points  
+- Division 3 \- 6 points  
+- Division 4 \- 5 points
+
+Les points gagnés sont cumulatifs à ceux déjà gagnés.
+
+2. **Répartition du cashprize**
+
+![][image1]
+
+3. ## **Sélection des équipes en Ligue Locale**
+
+Dans le cas où  une Ligue Locale ouvre pour la première fois, un tournoi ouvert appelé “Tournoi de placement” pourra être organisé afin de sélectionner et placer les équipes dans les Divisions.
+
+Au début de chaque Split, le placement des équipes dans les Divisions doit respecter le classement au points du Split compétitif précédent. Les équipes classées première à quatrième seront en Division 1; cinquième à huitième en Division 2; neuvième à douzième en Division 3; treizième à seizième en Division 4\.
+
+Durant un split en cours, une nouvelle équipe souhaitant rejoindre la compétition commencera toujours par jouer dans la plus basse Division.
+
+Pour le début d’un nouveau split, si une nouvelle équipe désire rejoindre la compétition, le Co-Organisateur est libre de l’intégrer de la manière qu’il le souhaite.  
+Il est toutefois recommandé de faire défier cette nouvelle équipe face à une équipe déjà en place.
+
+Pour ce faire : 
+
+- La nouvelle équipe défie une et une seule équipe déjà en place.  
+- Un match en BO3 est organisé entre les deux équipes.  
+- Si la nouvelle équipe perd le match, elle est intégrée en Division 4 si il y a de la place, ou sur le banc si cette dernière est déjà pleine.  
+- Si la nouvelle équipe remporte le match, elle rentre dans la Division de l’équipe perdante et le moins bien classé de cette Division descend, répercutant la même descente dans la Division inférieure.
+
+
+  4. ## **Critères de départages**
+
+Une fois tous les matchs joués et en cas d'égalité, les Administrateurs ont la possibilité d’appliquer les “critères de départage en cas d’égalité” ou bien de réaliser le minimum de matchs en BO3 nécessaires à la résolution de l’égalité.
+
+**Critères de départage en cas d’égalité :**
+
+En cas d’égalité entre au moins deux équipes, les critères de départage suivants s’appliquent successivement pour déterminer le classement des équipes à égalité :
+
+* la différence de manches (cartes remportées moins cartes perdues) après tous les matchs disputés contre toutes les équipes
+
+* L’équipe ayant le plus de victoire après tous les matchs disputés  uniquement entre les équipes à égalités (confrontation direct entre les équipes à égalité)
+
+* la différence de scoring de capture *\[%\]* (scores remportés moins scores perdus) après tous les matchs disputés uniquement entre les équipes à égalités
+
+* la différence de scoring de capture *\[%\]* (scores remportés moins scores perdus) après tous les matchs (BO) disputés contre toutes les équipes
+
+* la plus grande moyenne de score cumulé par tous les joueurs de chaque équipe dans toutes les manches disputées uniquement entre les équipes à égalité
+
+* la rapidité moyenne des rencontres pour les matchs disputés uniquement entre les équipes à égalité
+
+Il est entendu que pour chaque critère de départage utilisé, seules les équipes encore à égalité sont prises en considération pour le calcul du prochain critère de départage.
+
+Dans le cas où au moins deux équipes seraient encore à égalité à l’issue des différents critères de départage, un match ou un tournoi de départage sera organisé. Les équipes seront informées du format et des dates ultérieurement par les Co-Organisateurs.
 
 5. # **Inscriptions**
 
@@ -267,15 +305,13 @@ Les informations suivantes sont demandés au cours de l’inscription et doivent
 
 Les Organisateurs se réservent le droit de vérifier, par tout moyen nécessaire, l’authenticité des informations fournies à propos des joueurs afin de valider leur participation à la Ligue Locale, notamment leur âge, leur identité.
 
-Le nombre d’équipes pouvant s’inscrire étant limité, le Co-Organisateur peut décider d’organiser une étape de Sélection pour rentrer en Ligue Locale.
-
-Dans le cas où un joueur fournit des informations inexactes, les Organisateurs peuvent demander au joueur soit de modifier les informations fournies, soit de disqualifier le joueur et ainsi d’annuler sa participation au tournoi pour non conformité aux conditions d’éligibilité. L’équipe à laquelle appartient le joueur disqualifié doit inscrire un nouveau joueur avant la date de clôture des inscriptions pour la Ligue Locale.
+Dans le cas où un joueur fournit des informations inexactes, les Organisateurs peuvent demander au joueur soit de modifier les informations fournies, soit de disqualifier le joueur et ainsi d’annuler sa participation au tournoi pour non conformité aux conditions d’éligibilité. Si l’équipe à laquelle appartient le joueur disqualifié ne comporte que quatre joueurs, elle doit inscrire un nouveau joueur avant la date de clôture des inscriptions pour la Ligue Locale.
 
 6. # **Déroulement des matchs**
 
    1. ##  **Lancement des matchs.**
 
-Par défaut, la personne qui crée la partie doit être un administrateur, un observateur ou un commentateur. Les Organisateurs peuvent désigner une autre personne pour créer la partie. Néanmoins, les joueurs participant à la Ligue Locale ont l’interdiction de créer eux-mêmes les parties sans l’accord des Organisateurs et doivent suivre les instructions des Administrateurs pour rejoindre les parties de la Ligue Locale
+Par défaut, la personne qui crée la partie doit être un administrateur. Les Organisateurs peuvent désigner une autre personne pour créer la partie. Néanmoins, les joueurs participant à la Ligue Locale ont l’interdiction de créer eux-mêmes les parties sans l’accord des Organisateurs et doivent suivre les instructions des Administrateurs pour rejoindre les parties de la Ligue Locale
 
 Les équipes doivent respecter les instructions indiquées par les Organisateurs pour le lancement des matchs. Les administrateurs peuvent, à tout moment, indiquer aux équipes des instructions supplémentaires à respecter pour lancer les matchs. Les équipes s’engagent à respecter les instructions formulées par les Organisateurs ou les Administrateurs.
 
@@ -295,27 +331,34 @@ EVA se réserve le droit de mettre à jour le Jeu Vidéo pendant toute la durée
 
   3. ## **Armes éligibles**
 
-## Toutes les armes et grenades disponibles sont jouables en compétitif, y compris l’arme Spectre (sortie en Saison 6\) et de la grenade Sonar (sortie en saison 6\) à partir du 1er Novembre.
+## Toutes les armes et grenades disponibles sont jouables en compétitif.
 
 4. ## **Sélection des cartes**
 
    1. ## **Cartes éligibles**
 
-Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes :
+Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes différent selon les périodes.
 
-* **Ceres** : mode **DOMINATION**  
+Les trois périodes sont les suivantes : 
+
+- 01/01/2026 au 30/04/2026 (\#1)  
+- 01/05/2026 au 31/08/2026 (\#2) \- *annoncer plus tard dans l’année*  
+- 01/09/2026 au 31/12/2026 (\#3) \- *annoncer plus tard dans l’année*
+
+Les cartes jouables sur la périodes 01/01/2026 au 30/04/2026 (\#1) sont :
+
 * **Silva** : mode **DOMINATION**  
 * **Artefact** : mode **DOMINATION**  
-* **Polaris** : mode **DOMINATION**  
 * **The Cliff** : mode **DOMINATION**  
 * **Helios Station** : mode **DOMINATION**  
-* **Lunar Outpost** : mode **DOMINATION**  
 * **Atlantis** : mode **DOMINATION**  
 * **Engine :** mode **DOMINATION**  
 * **Outlaw** : mode **HARDPOINT**  
-* **Horizon** : mode **DOMINATION** (à partir d’Aout 2025 \- soit Septembre en officiel)
+* **Horizon** : mode **DOMINATION**
 
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
+
+Lors des circuits compétitifs auxquelles les Ligues Locales participent, un mappool différent pourra être définis.
 
 2. ## **Choix des cartes**
 
@@ -333,7 +376,7 @@ Les Organisateurs se réservent la possibilité de modifier les cartes indiquée
 
 **Choix du side et personnage joué**
 
-L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (trooper ou mecha ou rogue **ONLY**) joué par les deux équipes.
+L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (trooper ou mecha ou rogue ou cosmonaute **ONLY**) joué par les deux équipes.
 
 **Alternance de ban et de picks de cartes**
 
@@ -353,7 +396,7 @@ Les 4 joueurs de la même équipe doivent tous utiliser les mêmes objets de per
 
 Toute décision prise par les Organisateurs sur l’interdiction d’un objet de personnalisation sera communiquée aux équipes dans les plus brefs délais.
 
-Tous les joueurs de la partie (8) doivent utiliser **le même caractère (trooper ou mecha ou rogue uniquement)** sélectionné pendant le choix des cartes durant les matchs de la Ligue Locale.
+Tous les joueurs de la partie (8) doivent utiliser **le même caractère (trooper ou mecha ou rogue ou cosmonaute uniquement)** sélectionné pendant le choix des cartes durant les matchs de la Ligue Locale.
 
 ## 
 
@@ -368,7 +411,8 @@ Toute autre intervention externe pourra entraîner la disqualification du Partic
 
 A la fin de chaque map jouée, le capitaine de l’équipe dispose d’une minute pour annoncer un changement de joueurs pour la prochaine map. 
 
-Chaque capitaine est autorisé à faire deux demandes de changement par BO3.
+Chaque capitaine est autorisé à faire deux demandes de changement par BO3.  
+Lors d’une demande de changement, autant de joueur que possible peuvent être changés.
 
 8. ## **Résultats des matchs**
 
@@ -426,7 +470,7 @@ Les joueurs ne respectant pas cette règle pourront être sanctionnés de la man
 
 Chaque joueur bénéficie de 2 avertissements par BO.
 
-Au bout de 2 avertissements le joueur s’expose à un kill pour toute action jugée illicite.
+Au bout de 2 avertissements le joueur s’expose à un kill pour toute action jugée illicite ou controversée.
 
 Les Organisateurs et les Administrateurs peuvent également prendre toute décision pour suspendre immédiatement un comportement dangereux (y compris exclure un participant).
 
@@ -484,8 +528,8 @@ Dans tous les cas, chaque équipe est limitée à demander un maximum de 3 pause
 
 Dans le cas où l’Administrateur déciderait qu’un événement indépendant de la volonté des joueurs empêcherait totalement la reprise du match, alors le match sera reporté à une date ultérieure avec la règle suivante :
 
-* la partie sera relancée de zéro si le score des deux équipes est inférieur à 30%  
-* la partie sera relancée en reprenant les scores et l’état de vie (mort/vivant) des joueurs précédant l’incident si une des équipes possède un score supérieur ou égal à 30%.
+- la partie sera relancée de zéro si le score des deux équipes est inférieur à 30%  
+- la partie sera relancée en reprenant les scores et l’état de vie (mort/vivant) des joueurs précédant l’incident si une des équipes possède un score supérieur ou égal à 30%.
 
 L’utilisation de la pause par un joueur sans raison valable est passible d’une sanction envers le joueur et/ou son équipe.
 
@@ -538,8 +582,8 @@ Chaque participant demeure pleinement responsable du matériel mis à sa disposi
 En complément des équipements fournis par EVA, le joueur s’engage à jouer avec son propre matériel de protection contre la transpiration. A savoir : 
 
 - Bonnet anti-transpiration  
-- Facemask avant  
-- Facemask arrière
+- Facemask avant \- *uniquement sur casque HTC*  
+- Facemask arrière \- *uniquement sur casque HTC*
 
   14. ## **Consommation sur place \- hygiène \- règlement intérieur**
 
@@ -609,7 +653,7 @@ Toute personne utilisant le dopage afin d’améliorer ses performances s’expo
 
 1. ## **Liste des substances interdites**
 
-L’Agence Mondiale Antidopage met à disposition une liste des substances interdites pour cause de dopage. Cette liste est consultable [ici](https://www.wada-ama.org/sites/default/files/2023-09/2024list_final_fr_22_september_2023.pdf).  
+L’Agence Mondiale Antidopage met à disposition une liste des substances interdites pour cause de dopage. Cette liste est consultable [ici](https://www.wada-ama.org/sites/default/files/2025-10/2026list_final_fr_clean_october_2025.pdf).  
 Toutes les substances listées et mentionnées dans cette liste comme interdites pour la période hors compétition et/ou en compétition sont strictement interdites, dans les mêmes proportions et dans les mêmes conditions périodiques.
 
 2. ## **Substances spécifiques interdites**
@@ -739,3 +783,6 @@ Le présent Règlement est soumis au droit français. Si une ou plusieurs stipul
 
 En vous inscrivant à n’importe quelle Ligue Locale, vous adhérez aux [conditions générales de ventes](https://cdn.eva.gg/static/documents/legal/FR/TermsAndConditions.pdf), aux [règles de sécurité](https://cdn.eva.gg/static/documents/legal/FR/SafetyRules.pdf) de EVA ainsi qu’au présent règlement.
 
+# 
+
+[image1]: <data:image/png;base64,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>
