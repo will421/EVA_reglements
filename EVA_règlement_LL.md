@@ -4,6 +4,7 @@
 | :---- | :---- |
 | *DATE* | *OBJET* |
 | *15/01/2026* | *Ajustement des dates de mercato Mise à jour des circuits de compétitions Facilité de changement de joueur dans les nouvelles salles Pricing des tokens par joueur ou par équipe Ajout du cosmonaute comme perso’ jouable Suppression de la restriction de résidence Placement dans les LL en fonction des classements au points obligatoire (à partir de Split 2 2026\) Impossibilité d’être inscrit en équipe de LL et d’EVA League* |
+| *19/01/2025* | *\- Précision quant aux interdits de communication lors du **retour au spawn** \- Précision quant à la vitesse à adopter pour le **retour au spawn*** |
 
 1. # **Généralités**
 
@@ -455,6 +456,8 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Lors du retour au spawn, orienter son casque sur un axe différent de celui de la ligne blanche sans nécessité / kill au moment du respawn
 
+* Lors du retour au spawn, adopter une vitesse supérieure à celle d’une marche dynamique / avertissement ou kill au moment du respawn
+
 * Lever son casque lors d’une pause technique  / exclusion temporaire (45 sec) et retour au spawn
 
 Les joueurs ne respectant pas cette règle pourront être sanctionnés de la manière suivante en fonction de la gravité et/ou de la répétition de comportements dangereux :
@@ -488,7 +491,7 @@ Aucun comportement antisportif ne sera toléré et notamment :
 
 * Positionner sa main dominante devant sa main secondaire sur son arme / kill instantané ou au respawn
 
-* Communiquer des informations obtenues durant le retour au spawn / kill au respawn
+* Communiquer des informations bruts ou en lien avec celles obtenues grâce à son état de fantôme et entre la zone de mort et le retour au spawn / kill au respawn
 
 * Avoir une partie de son corps virtuel dans une texture du jeu et permettant un avantage induit / kill instantané ou au respawn
 
