@@ -334,9 +334,17 @@ EVA se réserve le droit de mettre à jour le Jeu Vidéo pendant toute la durée
 
 ## Toutes les armes et grenades disponibles sont jouables en compétitif.
 
-4. ## **Sélection des cartes**
+4. ## **Personnages éligibles**
 
-   1. ## **Cartes éligibles**
+Seuls les personnages Trooper, Mecha, Rogue et Cosmonaute sont jouables en compétition.
+
+Tous les skins sur ces personnages sont jouables, exceptés : 
+
+- Mecha \- Carrot Cracker
+
+  5. **Sélection des cartes**
+
+     1. ## **Cartes éligibles**
 
 Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes différent selon les périodes.
 
@@ -359,7 +367,7 @@ Les cartes jouables sur la périodes 01/01/2026 au 30/04/2026 (\#1) sont :
 
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
 
-Lors des circuits compétitifs auxquelles les Ligues Locales participent, un mappool différent pourra être définis.
+Lors des circuits compétitifs auxquelles les Ligues Locales participent, un mappool différent pourra être défini.
 
 2. ## **Choix des cartes**
 
@@ -391,7 +399,7 @@ L’équipe Away bannie une carte (3)
 L’équipe Home bannie une carte (4)  
 L’équipe Away sélectionne la carte de la partie 3
 
-5. ## **Personnalisation des avatars.**
+6. ## **Personnalisation des avatars.**
 
 Les 4 joueurs de la même équipe doivent tous utiliser les mêmes objets de personnalisation (skin) pour leurs matchs qui doivent être différents de ceux de l’équipe adverse. En cas de désaccord sur le choix des objets de personnalisation des deux équipes s’affrontant lors d’un match alors l’équipe Home choisit son objet de personnalisation en premier.
 
@@ -401,21 +409,21 @@ Tous les joueurs de la partie (8) doivent utiliser **le même caractère (troope
 
 ## 
 
-6. ## **Pendant la partie.**
+7. ## **Pendant la partie.**
 
 A partir du lancement de la partie et ce jusqu’à la victoire de celle-ci par une des deux équipes, seuls les participants sur le terrain d’une même équipe sont autorisés à communiquer entre eux, par quelque moyen que ce soit.   
 Les seules personnes autorisées à communiquer avec les participants sur le terrain sont les Administrateurs. 
 
 Toute autre intervention externe pourra entraîner la disqualification du Participant ou autre sanction disciplinaire.
 
-7. ## **Après la partie.**
+8. ## **Après la partie.**
 
 A la fin de chaque map jouée, le capitaine de l’équipe dispose d’une minute pour annoncer un changement de joueurs pour la prochaine map. 
 
 Chaque capitaine est autorisé à faire deux demandes de changement par BO3.  
 Lors d’une demande de changement, autant de joueur que possible peuvent être changés.
 
-8. ## **Résultats des matchs**
+9. ## **Résultats des matchs**
 
 À l’issue de chaque match, l’Administrateur entre le résultat  du match et le score de chaque équipe sur TOORNAMENT.
 
@@ -425,9 +433,9 @@ Dans le cas où une équipe dépose une réclamation à propos du résultat d’
 
 Les Organisateurs peuvent, en fonction des éléments soumis par les équipes concernées, soit classer sans suite la réclamation, soit valider la réclamation et prendre toute décision utile à ce sujet.
 
-9. ## **Comportements de jeux interdits**
+10. ## **Comportements de jeux interdits**
 
-   1. ## **Déplacements & Mouvements**
+    1. ## **Déplacements & Mouvements**
 
 Pour éviter les chocs entre joueurs, il est interdit de courir pendant les matchs de Ligue Locale. Il est cependant autorisé de trottiner. 
 
@@ -514,7 +522,7 @@ Les Participants ne sont pas autorisés à exploiter des bugs et/ou des glitchs 
 
 ## 
 
-10. ## **Déconnexions et pauses.**
+11. ## **Déconnexions et pauses.**
 
     1. ## **Pauses**
 
@@ -561,14 +569,14 @@ Si un match est volontairement interrompu par un joueur, l’administrateur peut
 
 Les Organisateurs décident, à leur seule discrétion, si le match a été volontairement ou involontairement interrompu.
 
-11. ## **Enregistrement et diffusion des matchs.**
+12. ## **Enregistrement et diffusion des matchs.**
 
 Seuls les Organisateurs sont autorisés à enregistrer et à diffuser les contenus en lien avec les compétitions officielles Ligues locales, dans le monde entier, sur internet, à la télévision ou sur tout autre support de communication, connu ou inconnu. Les participants ne sont donc pas autorisés à enregistrer ou à diffuser les matchs sans obtenir au préalable l’accord écrit des Organisateurs.
 
 Également, il est interdit de diffuser tout match considéré et/ou nommé comme entraînement (autrement appelé “***scrim***”) à quiconque en dehors des deux équipes concernées, sans autorisation de la part des deux équipes. Seront considérés comme fautifs la personne et l’équipe ayant diffusé ce contenu ainsi que la personne et l’équipe en ayant fait la demande.  
 Tout manquement à cette règle exposera les fautifs à une disqualification immédiate de la compétition.
 
-12. ## **Forfait.**
+13. ## **Forfait.**
 
 Dans le cas où une équipe est dans l’incapacité de participer à un match, pour quelque raison que ce soit, alors l’équipe sera considérée comme déclarant forfait pour ce match et l’équipe adverse sera considérée automatiquement comme ayant remporté le match concerné.
 
@@ -576,7 +584,7 @@ L’équipe déclarant forfait est automatiquement considérée comme dernière 
 
 Si une équipe déclare forfait volontairement à deux reprises, elle sera alors déclarée forfait sur toute la durée du Split et accusera donc la dernière place du classement. De plus, tous les matchs joués par cette équipe seront annulés.
 
-13. ## **Matériel mis à disposition par les Organisateurs**
+14. ## **Matériel mis à disposition par les Organisateurs**
 
 Pour participer aux matchs, EVA met temporairement à la disposition des participants du mobilier ainsi que différents équipements et matériels informatiques incluant notamment des casques de réalité virtuelle, des ordinateurs, des périphériques informatiques, etc. Les joueurs devront utiliser les matériels fournis par EVA. Le refus d’utiliser les périphériques et matériels désignés par EVA est susceptible d’entraîner la disqualification du participant. Les salles EVA étant équipées de manière différente, les participants acceptent que les matchs joués contre des équipes situées dans une autre salle EVA puissent être équipés d’un matériel de marque différente mais présentant des caractéristiques techniques proches ou similaires.
 
@@ -588,7 +596,7 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 - Facemask avant \- *uniquement sur casque HTC*  
 - Facemask arrière \- *uniquement sur casque HTC*
 
-  14. ## **Consommation sur place \- hygiène \- règlement intérieur**
+  15. ## **Consommation sur place \- hygiène \- règlement intérieur**
 
 La consommation de nourriture ou de boisson est strictement interdite dans les zones de jeu. Les Organisateurs peuvent tolérer la consommation de boissons non alcoolisées ou de nourriture dans la salle EVA, en dehors de la zone de jeu.
 
@@ -596,7 +604,7 @@ La salle EVA étant un lieu commun, le participant s’engage à garder la zone 
 
 En outre, les participants s’engagent à respecter le règlement intérieur de la salle EVA dans laquelle ils jouent leurs matchs.
 
-15. ## **Réponses aux interviews**
+16. ## **Réponses aux interviews**
 
 Les Organisateurs et les participants s’engagent mutuellement à faire leurs meilleurs efforts afin d’assurer le bon déroulement de la Ligue Locale et notamment son exposition médiatique. Les participants s’engagent à répondre aux interviews des journalistes et à participer aux éventuelles séances de dédicace définies par les Organisateurs.
 
