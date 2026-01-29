@@ -1,4 +1,5 @@
-**Règlement Ligue Locale 2026**
+**Règlement Ligue Locale 2026**  
+[**\[Link to english version\]**](https://docs.google.com/document/d/1RcyTrsLE4SRUKAw-DBA3HIug9icm2Df0/edit)
 
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
