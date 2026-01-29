@@ -10,7 +10,7 @@
 
    1. # **Organisateurs**
 
-La société EVA (smartVR Studio), inscrite au R.C.S. de Bobigny sous le numéro 834 704 447, dont le siège social est situé 145 boulevard Chanzy, 93100 Montreuil, France (ci-après “**EVA**” ou “**Organisateur National**”), organise, en partenariat avec les différentes salles franchisées du réseau EVA situées en France (ci-après, individuellement une “**Salle EVA**” et collectivement les “**Co-Organisateurs**”), une multitudes de compétitions intitulées “**Ligue Locale**” ou “**Tournoi**”, se déroulant de janvier 2026 à décembre 2026 dans les locaux des différentes Salles EVA.
+La société EVA (smartVR Studio), inscrite au R.C.S. de Bobigny sous le numéro 834 704 447, dont le siège social est situé 145 boulevard Chanzy, 93100 Montreuil, France (ci-après “**EVA**” ou “**Organisateur National**”), organise, en partenariat avec les différentes salles franchisées du réseau EVA situées en Europe (ci-après, individuellement une “**Salle EVA**” et collectivement les “**Co-Organisateurs**”), une multitudes de compétitions intitulées “**Ligue Locale**” ou “**Tournoi**”, se déroulant de janvier 2026 à décembre 2026 dans les locaux des différentes Salles EVA.
 
 Chaque Salle EVA organise localement sa propre Ligue Locale dans le respect du présent règlement commun à l’ensemble des Ligues Locales (ci-après le “**Règlement**”).
 
