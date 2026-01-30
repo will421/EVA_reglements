@@ -492,7 +492,7 @@ Les décisions prises par les Organisateurs et les Administrateurs à propos du 
 
 2. ## **Téléporteurs.**
 
-Les joueurs ont l’interdiction de rester plus de 4 secondes dans un téléporteur qu’il vient d’utiliser. Au-delà de ce temps, le joueur sera sanctionné par une pénalité (kill automatique par l’Administrateur) voire une sanction plus importante en cas de récidive, à la discrétion de l'Administrateur.
+Les joueurs ont l’interdiction de rester plus de 4 secondes dans un téléporteur qu’il vient d’utiliser. Au-delà de ce temps, le joueur sera sanctionné par une pénalité (kill automatique par l’Administrateur) voire une sanction plus importante en cas de récidive, à la discrétion de l'administrateur. Les 4 secondes sont décomptées à partir du moment où le joueur entre dans le téléporteur.
 
 ## 
 
