@@ -339,6 +339,8 @@ EVA se réserve le droit de mettre à jour le Jeu Vidéo pendant toute la durée
 
 Seuls les personnages Trooper, Mecha, Rogue et Cosmonaute sont jouables en compétition.
 
+Les joueurs doivent exclusivement équiper la version masculine du personnage sélectionné. Les joueuses sont autorisées à équiper la version féminine (si il en existe une) ou masculine du personnage.
+
 Tous les skins sur ces personnages sont jouables, exceptés : 
 
 - Mecha \- Carrot Cracker
