@@ -105,7 +105,7 @@ Compte tenu du caractère particulier du Jeu Vidéo (en réalité virtuelle avec
 
 5. ## **Comptes nécessaires**
 
-Pour participer à la Ligue Locale, les Participants doivent posséder un compte TOORNAMENT ([https://www.toornament.com/](https://www.toornament.com/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un battlepass EVA ([https://app.eva.gg/fr-FR/battlepass](https://app.eva.gg/fr-FR/battlepass)) .
+Pour participer à la Ligue Locale, les Participants doivent posséder un compte TOORNAMENT ([https://www.toornament.com/](https://www.toornament.com/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un battlepass EVA ([https://app.eva.gg/fr-FR/battlepass](https://app.eva.gg/fr-FR/battlepass)).
 
 6. ## **Temps de jeu au sein de la salle**
 
