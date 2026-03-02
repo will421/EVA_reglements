@@ -168,7 +168,7 @@ Au début de chaque split, les points de chaque équipe sont réinitialisés à 
 1. SPLIT 1
 
 Le premier split de l’EVA REGIONAL CUPS a lieu de Janvier à Avril.  
-Les Tournois Régionaux (TR) ont lieu en Mai. Les trois meilleures équipes de ces TR recevront une invitation à participer à une compétition se déroulant en Septembre et qui sera mentionnée dans ce présent règlement courant du premier trimestre 2026\.
+Les Tournois Régionaux (TR) ont lieu en Juin. Les trois meilleures équipes de ces TR recevront une invitation à participer à une compétition se déroulant en Septembre et qui sera mentionnée dans ce présent règlement courant du premier trimestre 2026\.
 
 Pour qu’une Ligue Locale puisse participer à l’EVA REGIONAL CUPS sur ce split, elle doit être conforme au règlement et débuter sa Ligue Locale à partir de Février au plus tard.
 
