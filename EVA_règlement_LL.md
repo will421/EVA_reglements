@@ -351,22 +351,22 @@ Tous les skins sur ces personnages sont jouables, exceptés :
 
 Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes différent selon les périodes.
 
-Les trois périodes sont les suivantes : 
+Les trois périodes et leurs cartes sont les suivantes : 
 
-- 01/01/2026 au 30/04/2026 (\#1)  
-- 01/05/2026 au 31/08/2026 (\#2) \- *annoncer plus tard dans l’année*  
+- 01/01/2026 au 30/04/2026 (\#1) : *Silva, Artefact, The Cliff, Helios Station, Atlantis, Engine, Outlaw, Horizon*  
+- 01/05/2026 au 31/08/2026 (\#2) \- ci-dessous.  
 - 01/09/2026 au 31/12/2026 (\#3) \- *annoncer plus tard dans l’année*
 
-Les cartes jouables sur la périodes 01/01/2026 au 30/04/2026 (\#1) sont :
+Les cartes jouables sur la périodes 01/05/2026 au 31/08/2026 (\#2) sont :
 
 * **Silva** : mode **DOMINATION**  
 * **Artefact** : mode **DOMINATION**  
 * **The Cliff** : mode **DOMINATION**  
-* **Helios Station** : mode **DOMINATION**  
-* **Atlantis** : mode **DOMINATION**  
+* **Ceres** : mode **DOMINATION**  
+* **Polaris**: mode **DOMINATION**  
 * **Engine :** mode **DOMINATION**  
 * **Outlaw** : mode **HARDPOINT**  
-* **Horizon** : mode **DOMINATION**
+* **Atlantis** : mode **DOMINATION**
 
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
 
