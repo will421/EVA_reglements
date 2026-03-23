@@ -359,14 +359,14 @@ Les trois périodes et leurs cartes sont les suivantes :
 
 Les cartes jouables sur la périodes 01/05/2026 au 31/08/2026 (\#2) sont :
 
-* **Silva** : mode **DOMINATION**  
-* **Artefact** : mode **DOMINATION**  
-* **The Cliff** : mode **DOMINATION**  
-* **Ceres** : mode **DOMINATION**  
-* **Polaris**: mode **DOMINATION**  
-* **Engine :** mode **DOMINATION**  
-* **Outlaw** : mode **HARDPOINT**  
-* **Atlantis** : mode **DOMINATION**
+* **Atlantis** : mode **DOMINATION**  
+* **Engine** : mode **DOMINATION**  
+* **Horizon**: mode **DOMINATION**  
+* **Helios Station**: mode **DOMINATION**  
+* **Lunar Outpost**: mode **DOMINATION**  
+* **Polaris:** mode **DOMINATION**  
+* **The Cliff**: mode **HARDPOINT**  
+* **Silva**: mode **DOMINATION**
 
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
 
