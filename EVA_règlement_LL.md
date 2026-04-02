@@ -372,6 +372,20 @@ Les Organisateurs se réservent la possibilité de modifier les cartes indiquée
 
 Lors des circuits compétitifs auxquelles les Ligues Locales participent, un mappool différent pourra être défini.
 
+**Pour les Tournois Régionaux du Split 1 (Juin), les cartes éligibles sont :** 
+
+- Silva,   
+- Artefact,   
+- The Cliff,   
+- Helios Station,   
+- Atlantis,   
+- Engine,   
+- Ceres,   
+- Horizon,   
+- Polaris
+
+Toutes en mode **DOMINATION.**
+
 2. ## **Choix des cartes**
 
 **La phase de Choix des cartes se fera via l’outil Picks & Bans mis à disposition des salles, sous le format BO3.**
