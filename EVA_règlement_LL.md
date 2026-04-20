@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *20/04/2026* | *Article 3.2 \- Composition des équipes : Précision de la mécanique de gel dans le cadre des personnes inéligibles. Article 3.2 \- Précision des sanctions encourues en cas de manquement aux règles d'éligibilité des joueurs. Article 3.5 \- Nécessité de disposer d'un compte EVA Competitive Article 3.9 \- Précision quant au prix de participation aux Ligues Locales. Article 5 \- Précision quant à l'inscription via la plateforme EVA Competitive. Article 6.10.1 \- Précision quant à la vitesse de retour au spawn et la sanction associée Article 6.11.2.2. \- Précision quant à la règle sur les déconnexions générales Article 6.4 \- Précision quant à la dénomination du personnage Explorer / Cosmonaute, ajout du skin Mecasme \- Bachelor à la liste des skins non-jouables Article 6.11.2.1 \- Précision quant à la règle des déconnexions involontaires ou problème technique d’un joueur Article 14 \- Précision quant à la protection intellectuelle sur les éléments graphiques fournis par EVA France dans le cadre de la diffusion des ligues locales.* |
 | *15/01/2026* | *Ajustement des dates de mercato Mise à jour des circuits de compétitions Facilité de changement de joueur dans les nouvelles salles Pricing des tokens par joueur ou par équipe Ajout du cosmonaute comme perso’ jouable Suppression de la restriction de résidence Placement dans les LL en fonction des classements au points obligatoire (à partir de Split 2 2026\) Impossibilité d’être inscrit en équipe de LL et d’EVA League* |
 | *19/01/2025* | *\- Précision quant aux interdits de communication lors du **retour au spawn** \- Précision quant à la vitesse à adopter pour le **retour au spawn*** |
 
@@ -124,7 +125,7 @@ Les Organisateurs se réservent le droit de refuser la participation à la Ligue
 
 9. ## **Prix de participation**
 
-Chaque soirée de Ligue Locale oblige les équipes participantes à poser entre 4 et 12 sessions battlepass ou entre 1 à 3 sessions battlepass par joueur. Ce nombre de sessions est fixé par les gérants de la salle du Co-Organisateur.
+Chaque soirée de Ligue Locale oblige les équipes participantes à poser entre 4 et 12 sessions battlepass ou entre 1 à 3 sessions battlepass par joueur. Ce nombre de sessions est fixé par les gérants de la salle du Co-Organisateur. Le prix de participation doit obligatoirement être des sessions battlepass, et ne peut être en argent réel.
 
 Il est du devoir du capitaine de s’assurer que les joueurs de l’équipe posent le nombre suffisant de sessions battlepass.
 
@@ -292,13 +293,12 @@ Dans le cas où au moins deux équipes seraient encore à égalité à l’issue
 
 5. # **Inscriptions**
 
-Le capitaine ou le responsable de chaque équipe est chargé de l’inscription des joueurs de son équipe dans la Ligue Locale sur TOORNAMENT ([https://www.toornament.com/](https://www.toornament.com/)) et des informations de chaque joueur de son équipe, qu’il certifie exactes et complètes.
+Le capitaine ou le responsable de chaque équipe est chargé de l’inscription des joueurs de son équipe dans la Ligue Locale sur EVA COMPETITIVE ([https://competitive.eva.gg/](https://competitive.eva.gg/)) et des informations de chaque joueur de son équipe, qu’il certifie exactes et complètes.
 
 Avant de s’inscrire au tournoi, il est obligatoire pour le capitaine de **créer une équipe via son profil personnel**. Afin d’inscrire cette équipe au tournoi, cette dernière doit être composée de 4 à 7 joueurs.  
 Dans le cas où cette étape ne serait pas respectée, l’équipe inscrite hors règlement sera inéligible à gagner des points.
 
-Une fois l’équipe créée hors du circuit, le capitaine doit s’inscrire sur le Toornament de la Ligue Locale à laquelle il souhaite participer.  
-Les informations suivantes sont demandés au cours de l’inscription et doivent obligatoirement être renseignées :
+Une fois l’équipe créée sur la plateforme, le capitaine doit renseigner dans la ligue locale de son choix dans l’étape à laquelle il souhaite inscrire son équipe l’ensemble des joueurs participants. Les informations suivantes sont demandées au cours de l’inscription et doivent obligatoirement être renseignées :
 
 * Nom d’équipe  
 * Pseudonyme du capitaine  
@@ -340,13 +340,14 @@ EVA se réserve le droit de mettre à jour le Jeu Vidéo pendant toute la durée
 
 4. ## **Personnages éligibles**
 
-Seuls les personnages Trooper, Mecha, Rogue et Cosmonaute sont jouables en compétition.
+Seuls les personnages Trooper, Mecasme, Rogue et Explorer (Cosmonaute) sont jouables en compétition.
 
 Les joueurs doivent exclusivement équiper la version masculine du personnage sélectionné. Les joueuses sont autorisées à équiper la version féminine (si il en existe une) ou masculine du personnage.
 
 Tous les skins sur ces personnages sont jouables, exceptés : 
 
-- Mecha \- Carrot Cracker
+- Mecasme \- Carrot Crackers  
+- Mecasme \- Bachelor
 
   5. **Sélection des cartes**
 
@@ -572,7 +573,7 @@ Un administrateur peut demander de relancer le match si l'administrateur constat
 
    1. ### **Déconnexions involontaires ou problème technique d’un joueur**
 
-Si un joueur est déconnecté involontairement de la partie, le match sera mis en pause le temps que le joueur puisse revenir dans la partie dans les mêmes conditions qu’avant la déconnexion. La carte sera reprise (fin de pause technique) dans les conditions les plus proches de la situation précédant l’incident.
+Si un joueur est déconnecté involontairement de la partie, le match sera mis en pause le temps que le joueur puisse revenir dans la partie dans les mêmes conditions qu’avant la déconnexion. L’arbitre s’assure de l’état de vie ou de mort du joueur avant la pause et applique le même état au retour de la pause. La carte sera reprise (fin de pause technique) dans les conditions les plus proches de la situation précédant l’incident.
 
 Si l’arbitre estime que le joueur ne peut pas revenir dans les conditions identiques à la situation préalable à la déconnexion, l’arbitre peut décider de relancer la partie sous les mêmes conditions que la section 6.9.2.2.
 
@@ -748,7 +749,7 @@ Le participant autorise gracieusement chaque Organisateur, les sociétés de leu
 
 14. # **Propriété intellectuelle**
 
-Les marques, les logos, les logiciels, les dessins, les modèles, les bases de données, les services en ligne, le jeu, le nom des personnages du jeu, utilisés au cours de la Ligue Locale sont protégés au titre de la propriété intellectuelle et sont la propriété de leurs propriétaires respectifs. Toute utilisation, reproduction ou représentation non autorisée par le titulaire des droits est interdite.
+Les marques, les logos, les logiciels, les dessins, les modèles, les bases de données, les services en ligne, le jeu, le nom des personnages du jeu, les éléments graphiques fournis par EVA France dans le cadre de la diffusion utilisés au cours de la Ligue Locale sont protégés au titre de la propriété intellectuelle et sont la propriété de leurs propriétaires respectifs. Toute utilisation, reproduction ou représentation non autorisée par le titulaire des droits est interdite.
 
 15. # **Limitation de responsabilité**
 
