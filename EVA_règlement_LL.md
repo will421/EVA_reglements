@@ -61,9 +61,12 @@ Sont considérés **inéligibles** à la participation en Ligue Locale les joueu
 - Inscrits dans une équipe d’EVA Ligues,    
 - tout Participants inscrit ou ayant été inscrit au sein d’une autre Ligue Locale durant le même Segment (Split),   
 - tout Participants inscrit au sein d’une autre équipe engagée dans la même Ligue Locale lors de l’étape en cours ou précédente.   
+  - Exemple : Un joueur jouant dans l’équipe A au mois de février et souhaitant changer pour l’équipe B, ne pourra jouer pour l’équipe B qu’à la Ligue Locale du mois d’avril. (Il ne peut pas jouer la Ligue Locale du mois de mars effectuant ainsi un gel.)  
 - ainsi que toute personne faisant l’objet d’une sanction esportive précisant l’interdiction spécifique ou non de participer à une compétition esportive EVA.
 
 Pour les salles effectuant leur deux premiers mois de compétition, le troisième critère d’éligibilité est assouplie en enlevant la mention “ou précédente”. 
+
+Toute équipe participant à un ou plusieurs mois de ligue locale avec des joueurs non-éligibles s’exposent à une annulation de leur résultat ainsi que les points obtenus lors de la ou les étapes incriminées. 
 
 L’inscription d’une équipe en Ligue Locale engage chaque joueur de cette équipe à participer au Tournoi. 
 
@@ -105,7 +108,7 @@ Compte tenu du caractère particulier du Jeu Vidéo (en réalité virtuelle avec
 
 5. ## **Comptes nécessaires**
 
-Pour participer à la Ligue Locale, les Participants doivent posséder un compte TOORNAMENT ([https://www.toornament.com/](https://www.toornament.com/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un battlepass EVA ([https://app.eva.gg/fr-FR/battlepass](https://app.eva.gg/fr-FR/battlepass)).
+Pour participer à la Ligue Locale, les Participants doivent posséder un compte COMPETITIVE EVA ([https://competitive.eva.gg/](https://competitive.eva.gg/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un battlepass EVA ([https://app.eva.gg/fr-FR/battlepass](https://app.eva.gg/fr-FR/battlepass)).
 
 6. ## **Temps de jeu au sein de la salle**
 
@@ -481,7 +484,7 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Lors du retour au spawn, orienter son casque sur un axe différent de celui de la ligne blanche sans nécessité / kill au moment du respawn
 
-* Lors du retour au spawn, adopter une vitesse supérieure à celle d’une marche dynamique / avertissement ou kill au moment du respawn
+* Le retour au spawn doit s’effectuer en marchant / avertissement ou kill au moment du respawn
 
 * Lever son casque lors d’une pause technique  / exclusion temporaire (45 sec) et retour au spawn
 
@@ -577,7 +580,8 @@ Si l’arbitre estime que le joueur ne peut pas revenir dans les conditions iden
 
 Si une partie est interrompue et que tous les joueurs sont déconnectés de la partie (de manière involontaire ou sur décision de l’arbitre) : 
 
-* la partie sera relancée de zéro si le score des deux équipes est inférieur à 30%  
+* la partie sera relancée de zéro si aucune des deux équipes n’a de score égal ou supérieur à 30%.  
+
 * la partie sera relancée et l’état de vie (mort/vivant) des joueurs en reprenant les scores précédant l’incident si une des équipes possède un score supérieur ou égal à 30%.
 
   3. ### **Déconnexions volontaires**
