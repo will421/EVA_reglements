@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *21/04/2026* | *Article 3.9 \- Clarification sur les sessions supplémentaires.  Modification des termes “battlepass” en “EVA Pass”*  |
 | *20/04/2026* | *Article 3.2 \- Composition des équipes : Précision de la mécanique de gel dans le cadre des personnes inéligibles. Article 3.2 \- Précision des sanctions encourues en cas de manquement aux règles d'éligibilité des joueurs. Article 3.5 \- Nécessité de disposer d'un compte EVA Competitive Article 3.9 \- Précision quant au prix de participation aux Ligues Locales. Article 5 \- Précision quant à l'inscription via la plateforme EVA Competitive. Article 6.10.1 \- Précision quant à la vitesse de retour au spawn et la sanction associée Article 6.11.2.2. \- Précision quant à la règle sur les déconnexions générales Article 6.4 \- Précision quant à la dénomination du personnage Explorer / Cosmonaute, ajout du skin Mecasme \- Bachelor à la liste des skins non-jouables Article 6.11.2.1 \- Précision quant à la règle des déconnexions involontaires ou problème technique d’un joueur Article 14 \- Précision quant à la protection intellectuelle sur les éléments graphiques fournis par EVA France dans le cadre de la diffusion des ligues locales.* |
 | *15/01/2026* | *Ajustement des dates de mercato Mise à jour des circuits de compétitions Facilité de changement de joueur dans les nouvelles salles Pricing des tokens par joueur ou par équipe Ajout du cosmonaute comme perso’ jouable Suppression de la restriction de résidence Placement dans les LL en fonction des classements au points obligatoire (à partir de Split 2 2026\) Impossibilité d’être inscrit en équipe de LL et d’EVA League* |
 | *19/01/2025* | *\- Précision quant aux interdits de communication lors du **retour au spawn** \- Précision quant à la vitesse à adopter pour le **retour au spawn*** |
@@ -109,11 +110,11 @@ Compte tenu du caractère particulier du Jeu Vidéo (en réalité virtuelle avec
 
 5. ## **Comptes nécessaires**
 
-Pour participer à la Ligue Locale, les Participants doivent posséder un compte COMPETITIVE EVA ([https://competitive.eva.gg/](https://competitive.eva.gg/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un battlepass EVA ([https://app.eva.gg/fr-FR/battlepass](https://app.eva.gg/fr-FR/battlepass)).
+Pour participer à la Ligue Locale, les Participants doivent posséder un compte COMPETITIVE EVA ([https://competitive.eva.gg/](https://competitive.eva.gg/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un EVA Pass ([https://www.eva.gg/fr-FR/subscriptions](https://www.eva.gg/fr-FR/subscriptions)).
 
 6. ## **Temps de jeu au sein de la salle**
 
-Le battlepass de chaque Participant doit être affilié à la salle au sein de laquelle il veut participer à la Ligue Locale. Pour ce faire, le joueur doit dépenser la majorité de ses sessions battlepass au sein de la salle réalisant ladite Ligue Locale.
+L’EVA Pass de chaque Participant doit être affilié à la salle au sein de laquelle il veut participer à la Ligue Locale. Pour ce faire, le joueur doit dépenser la majorité de ses sessions EVA Pass au sein de la salle réalisant ladite Ligue Locale.
 
 7. ## **Situation sanitaire**
 
@@ -125,9 +126,9 @@ Les Organisateurs se réservent le droit de refuser la participation à la Ligue
 
 9. ## **Prix de participation**
 
-Chaque soirée de Ligue Locale oblige les équipes participantes à poser entre 4 et 12 sessions battlepass ou entre 1 à 3 sessions battlepass par joueur. Ce nombre de sessions est fixé par les gérants de la salle du Co-Organisateur. Le prix de participation doit obligatoirement être des sessions battlepass, et ne peut être en argent réel.
+Chaque soirée de Ligue Locale oblige les équipes participantes à poser entre 4 et 12 sessions EVA Pass ou entre 1 à 3 sessions EVA Pass par joueur. Ce nombre de sessions est fixé par les gérants de la salle du Co-Organisateur. Le prix de participation doit obligatoirement être des sessions EVA Pass, et ne peut être en argent réel. Si le joueur a déjà utilisé l’ensemble des sessions contenues dans son EVA Pass pour le mois, il est en mesure de régler sa participation pour l’étape de division locale du même mois via des sessions supplémentaires.
 
-Il est du devoir du capitaine de s’assurer que les joueurs de l’équipe posent le nombre suffisant de sessions battlepass.
+Il est du devoir du capitaine de s’assurer que les joueurs de l’équipe posent le nombre suffisant de sessions EVA Pass.
 
 10. ## **Respect des législations applicables**
 
@@ -304,7 +305,7 @@ Une fois l’équipe créée sur la plateforme, le capitaine doit renseigner dan
 * Pseudonyme du capitaine  
 * Pseudonyme (identique à celui du jeu) de chaque joueur  
 * Nom complet du joueur  
-* Adresse e-mail du BP de chaque joueur  
+* Adresse e-mail de l’EVA Pass de chaque joueur  
 * Salle EVA choisie  
 * Date de naissance de chaque joueur.
 
