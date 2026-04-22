@@ -395,7 +395,7 @@ Toutes en mode **DOMINATION.**
 
 **La phase de Choix des cartes se fera via l’outil Picks & Bans mis à disposition des salles, sous le format BO3.**
 
-**Pour information, cet outil permet d’effectuer la sélection ainsi :** 
+**Pour information, cet outil permet d’effectuer la sélection ainsi : **
 
 1. Pile ou face (à effectuer hors-jeu) \- Gagnant choisit d’être Home ou Away (le perdant hérite du statut restant)
 
