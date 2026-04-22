@@ -369,7 +369,7 @@ Les cartes jouables sur la périodes 01/05/2026 au 31/08/2026 (\#2) sont :
 * **Horizon**: mode **DOMINATION**  
 * **Helios Station**: mode **DOMINATION**  
 * **Lunar Outpost**: mode **DOMINATION**  
-* **Polaris: **mode **DOMINATION**  
+* **Polaris:** mode **DOMINATION**  
 * **The Cliff**: mode **DOMINATION**  
 * **Silva**: mode **DOMINATION**
 
