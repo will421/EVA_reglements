@@ -315,7 +315,7 @@ Dans le cas où un joueur fournit des informations inexactes, les Organisateurs 
 
 6. # **Déroulement des matchs**
 
-   1. ##  **Lancement des matchs.**
+   1. ## ** Lancement des matchs.**
 
 Par défaut, la personne qui crée la partie doit être un administrateur. Les Organisateurs peuvent désigner une autre personne pour créer la partie. Néanmoins, les joueurs participant à la Ligue Locale ont l’interdiction de créer eux-mêmes les parties sans l’accord des Organisateurs et doivent suivre les instructions des Administrateurs pour rejoindre les parties de la Ligue Locale
 
