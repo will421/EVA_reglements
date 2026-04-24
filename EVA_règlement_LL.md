@@ -394,7 +394,7 @@ Les Organisateurs se réservent la possibilité de modifier les cartes indiquée
 
 Lors des circuits compétitifs auxquelles les Ligues Locales participent, un mappool différent pourra être défini.
 
-**Pour les Tournois Régionaux du Split 1 (Juin), les cartes éligibles sont : **
+**Pour les Tournois Régionaux du Split 1 (Juin), les cartes éligibles sont :** 
 
 - Silva,   
 - Artefact,   
