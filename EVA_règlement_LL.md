@@ -4,7 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
-| *24/04/2026* | *Article 4.4 \- Clarification sur les crit* |
+| *24/04/2026* | *Article 4.4 \- Clarification sur les critères de départage intra et inter-split.* |
 | *21/04/2026* | *Article 3.9 \- Clarification sur les sessions supplémentaires.  Modification des termes “battlepass” en “EVA Pass”*  |
 | *20/04/2026* | *Article 3.2 \- Composition des équipes : Précision de la mécanique de gel dans le cadre des personnes inéligibles. Article 3.2 \- Précision des sanctions encourues en cas de manquement aux règles d'éligibilité des joueurs. Article 3.5 \- Nécessité de disposer d'un compte EVA Competitive Article 3.9 \- Précision quant au prix de participation aux Ligues Locales. Article 5 \- Précision quant à l'inscription via la plateforme EVA Competitive. Article 6.10.1 \- Précision quant à la vitesse de retour au spawn et la sanction associée Article 6.11.2.2. \- Précision quant à la règle sur les déconnexions générales Article 6.4 \- Précision quant à la dénomination du personnage Explorer / Cosmonaute, ajout du skin Mecasme \- Bachelor à la liste des skins non-jouables Article 6.11.2.1 \- Précision quant à la règle des déconnexions involontaires ou problème technique d’un joueur Article 14 \- Précision quant à la protection intellectuelle sur les éléments graphiques fournis par EVA France dans le cadre de la diffusion des ligues locales.* |
 | *15/01/2026* | *Ajustement des dates de mercato Mise à jour des circuits de compétitions Facilité de changement de joueur dans les nouvelles salles Pricing des tokens par joueur ou par équipe Ajout du cosmonaute comme perso’ jouable Suppression de la restriction de résidence Placement dans les LL en fonction des classements au points obligatoire (à partir de Split 2 2026\) Impossibilité d’être inscrit en équipe de LL et d’EVA League* |
@@ -301,11 +301,13 @@ Dans le cas où deux équipes seraient à égalité de points au classement à l
 
 Dans le cas où trois équipes ou plus seraient à égalité de point au classement à la fin d'un split de Ligue Locale, les critères de départage suivants s'appliquent dans cet ordre : 
 
-La différence de manches (cartes remportées moins cartes perdues) après tous les matchs disputés contre toutes les équipes
+* La différence de manches (cartes remportées moins cartes perdues) après tous les matchs disputés contre toutes les équipes
 
-L’équipe ayant le plus de victoire après tous les matchs disputés uniquement entre les équipes à égalité (confrontation directe entre les équipes à égalité)
 
-Dans le cas où au moins deux équipes seraient encore à égalité à l’issue des différents critères de départage ci-dessus, un match ou un tournoi de départage sera organisé. Les équipes seront informées du format et des dates ultérieurement par les co-organisateurs. Dans le cas où ce match ou tournoi se terminerait avec de nouveau des égalités, les critères intra-split de l'article 4.4.1 du présent règlement s'appliquent sur le tournoi joué.
+* L’équipe ayant le plus de victoire après tous les matchs disputés uniquement entre les équipes à égalité (confrontation directe entre les équipes à égalité)
+
+
+* Dans le cas où au moins deux équipes seraient encore à égalité à l’issue des différents critères de départage ci-dessus, un match ou un tournoi de départage sera organisé. Les équipes seront informées du format et des dates ultérieurement par les co-organisateurs. Dans le cas où ce match ou tournoi se terminerait avec de nouveau des égalités, les critères intra-split de l'article 4.4.1 du présent règlement s'appliquent sur le tournoi joué.
 
 5. # **Inscriptions**
 
