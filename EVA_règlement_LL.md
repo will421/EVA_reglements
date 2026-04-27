@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *27/04/2026* | *Article 6.10.3 \- Clarification sur les comportements antisportifs et les informations communicables*  |
 | *24/04/2026* | *Article 4.4 \- Clarification sur les critères de départage intra et inter-split.* |
 | *21/04/2026* | *Article 3.9 \- Clarification sur les sessions supplémentaires.  Modification des termes “battlepass” en “EVA Pass”*  |
 | *20/04/2026* | *Article 3.2 \- Composition des équipes : Précision de la mécanique de gel dans le cadre des personnes inéligibles. Article 3.2 \- Précision des sanctions encourues en cas de manquement aux règles d'éligibilité des joueurs. Article 3.5 \- Nécessité de disposer d'un compte EVA Competitive Article 3.9 \- Précision quant au prix de participation aux Ligues Locales. Article 5 \- Précision quant à l'inscription via la plateforme EVA Competitive. Article 6.10.1 \- Précision quant à la vitesse de retour au spawn et la sanction associée Article 6.11.2.2. \- Précision quant à la règle sur les déconnexions générales Article 6.4 \- Précision quant à la dénomination du personnage Explorer / Cosmonaute, ajout du skin Mecasme \- Bachelor à la liste des skins non-jouables Article 6.11.2.1 \- Précision quant à la règle des déconnexions involontaires ou problème technique d’un joueur Article 14 \- Précision quant à la protection intellectuelle sur les éléments graphiques fournis par EVA France dans le cadre de la diffusion des ligues locales.* |
@@ -538,7 +539,7 @@ Aucun comportement antisportif ne sera toléré et notamment :
 
 * Positionner sa main dominante devant sa main secondaire sur son arme / kill instantané ou au respawn
 
-* Communiquer des informations bruts ou en lien avec celles obtenues grâce à son état de fantôme et entre la zone de mort et le retour au spawn / kill au respawn
+* En-dehors des informations obtenues lors des 2 secondes suivant la mort, donner des informations sur la position ou l’état des ennemis rencontrés lors du retour au spawn / kill au respawn ;
 
 * Avoir une partie de son corps virtuel dans une texture du jeu et permettant un avantage induit / kill instantané ou au respawn
 
