@@ -236,7 +236,7 @@ La moitié du cashprize total (15.000€) est donné en récompense du premier s
 Consécutivement aux soirées de Divisions des Ligues Locales, les équipes participantes font jouer leur meilleure équipe du soir face à la meilleure équipe de la même Division d’une autre salle européenne. Ce match a lieu en Intersalle. L’équipe victorieuse fait remporter des points à sa salle (ci-après “Gains des points EVA Versus”). Si la salle adverse ne présente pas d’équipe, alors elle est déclarée forfait, donc perdante du match.
 
 L’intersalle est une manière spécifique de jouer à After-H Battle Arena. Les deux équipes d’une même partie sont sur deux arènes différentes. Dû aux spécificités techniques, la traversée du corps d’un joueur adverse devient possible.  
-**Cette pratique est strictement interdite. **
+**Cette pratique est strictement interdite.** 
 
 1. **Gains des points EVA Versus**
 
