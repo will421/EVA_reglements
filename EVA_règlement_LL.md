@@ -59,6 +59,8 @@ Les Participants mineurs doivent envoyer cette autorisation parentale aux Organi
 
 2. ## **Composition des équipes**
 
+   1. Composition des équipes et éligibilité
+
 Les équipes sont composées de 4 à 7 joueurs (un capitaine ainsi que 3 à 6 joueurs) éligibles à la participation en Ligue Locale.   
 Sont considérés **inéligibles** à la participation en Ligue Locale les joueurs : 
 
@@ -82,13 +84,25 @@ A partir de **Janvier 2027**, une équipe de Ligue Locale ne peut contenir au pl
 
 Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tous les Participants sera effacé, libérant chacun de leur engagement au sein des Ligues Locales. Les historiques seront supprimés aux dates suivantes : 
 
-\- 01/05/2026 (\#1)\*
+\- 01/05/2026 (\#1)
 
 \- 31/12/2026 (\#2)
 
-\*pour les équipes engagés aux Tournois Régionaux, leur historique sera réinitialisé suite à leur élimination de ces TR
+2. Tournois régionaux 
 
-3. ## **Nom des Participants.**
+Les rosters des équipes qualifiées au tournoi régional sont les mêmes que lors de la dernière étape du split écoulé, pouvant être complété jusqu'à 7 joueurs éligibles. 
+
+- *Exemple : Joueur A a remporté le split 1 avec son équipe Alpha et était inscrit lors de la dernière étape. Ce joueur est donc inscrit d'office au tournoi régional du split 1 avec l'équipe Alpha. Le joueur A peut s'engager avec une autre équipe au début du split 2 de n'importe quelle autre ligue locale. En revanche, il ne pourra pas participer au Tournoi Régional avec l'équipe Alpha, bien que sa place soit verrouillée dans leur roster.*
+
+Les équipes qualifiées au tournoi régional peuvent changer de ligue locale entre deux splits à la condition de maintenir au moins deux joueurs du roster inscrit lors de la dernière étape du split précédent. En cas de non-respect de cette règle, leur place au tournoi régional leur sera retirée. 
+
+Dans le cas où une équipe qualifiée perdrait sa place au tournoi régional du split concerné, un repêchage sera effectué dans l'ordre suivant : 
+
+- La 2ème équipe au classement général du split de la ligue locale concernée  
+- La 3ème équipe au classement général du split de la ligue locale concernée  
+- Si ces deux précédentes options ne parviennent pas à donner un remplaçant, l'Organisateur se réserve le droit de réattribuer le slot
+
+  3. ## **Nom des Participants.**
 
 Le nom, le logo, ou tout élément officiel représentant l’équipe ou le participant ne doit pas contenir de contenu offensant, insultant, injurieux, menaçant, abusif, vulgaire, obscène, sexuel, raciste, diffamatoire, contraire ou de nature à porter atteinte aux intérêts de chacun des Organisateurs, des partenaires de la Ligue Locale, et plus généralement tout élément contraire à l’éthique, aux valeurs esportives, ou répréhensible par une disposition législative ou réglementaire en vigueur.
 
