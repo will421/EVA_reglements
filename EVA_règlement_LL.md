@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *28/04/2026* | *Article 3.2 \- Ajustements de la clause de composition des équipes relatifs aux tournois régionaux*  |
 | *27/04/2026* | *Article 6.10.3 \- Clarification sur les comportements antisportifs et les informations communicables*  |
 | *24/04/2026* | *Article 4.4 \- Clarification sur les critères de départage intra et inter-split.* |
 | *21/04/2026* | *Article 3.9 \- Clarification sur les sessions supplémentaires.  Modification des termes “battlepass” en “EVA Pass”*  |
@@ -98,9 +99,9 @@ Les équipes qualifiées au tournoi régional peuvent changer de ligue locale en
 
 Dans le cas où une équipe qualifiée perdrait sa place au tournoi régional du split concerné, un repêchage sera effectué dans l'ordre suivant : 
 
-- La 2ème équipe au classement général du split de la ligue locale concernée  
-- La 3ème équipe au classement général du split de la ligue locale concernée  
-- Si ces deux précédentes options ne parviennent pas à donner un remplaçant, l'Organisateur se réserve le droit de réattribuer le slot
+- La 2ème équipe au classement général du split de la ligue locale concernée.  
+- La 3ème équipe au classement général du split de la ligue locale concernée.  
+- Si ces deux précédentes options ne parviennent pas à donner un remplaçant, l'Organisateur se réserve le droit de réattribuer le slot.
 
   3. ## **Nom des Participants.**
 
