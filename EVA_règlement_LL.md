@@ -67,7 +67,7 @@ Sont considérés **inéligibles** à la participation en Ligue Locale les joueu
 
 - Inscrits dans une équipe d’EVA Ligues,    
 - tout Participants inscrit ou ayant été inscrit au sein d’une autre Ligue Locale durant le même Segment (Split),   
-- tout Participants inscrit au sein d’une autre équipe engagée dans la même Ligue Locale lors de l’étape en cours ou précédente.   
+- Tous Participants inscrit au sein d’une autre équipe engagée dans la même Ligue Locale lors de l’étape en cours ou précédente.   
   - Exemple : Un joueur jouant dans l’équipe A au mois de février et souhaitant changer pour l’équipe B, ne pourra jouer pour l’équipe B qu’à la Ligue Locale du mois d’avril. (Il ne peut pas jouer la Ligue Locale du mois de mars effectuant ainsi un gel.)  
 - ainsi que toute personne faisant l’objet d’une sanction esportive précisant l’interdiction spécifique ou non de participer à une compétition esportive EVA.
 
