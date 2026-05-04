@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *04/05/2026* | *Article 3.2.2 \- Le précédent article 3.2.2 sur les tournois régionaux devient l’article 3.2.3 Ajout du nouvel article 3.2.2 sur les Structures et Multi-équipes* |
 | *28/04/2026* | *Article 3.2 \- Ajustements de la clause de composition des équipes relatifs aux tournois régionaux*  |
 | *27/04/2026* | *Article 6.10.3 \- Clarification sur les comportements antisportifs et les informations communicables*  |
 | *24/04/2026* | *Article 4.4 \- Clarification sur les critères de départage intra et inter-split.* |
@@ -89,7 +90,22 @@ Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tou
 
 \- 31/12/2026 (\#2)
 
-2. Tournois régionaux 
+2. Structure et Multi-équipes
+
+Une division de ligue locale ne peut accueillir plus de deux équipes rattachées à la même structure/organisation esport. 
+
+Une ligue locale ne peut contenir plus de trois équipes rattachées à la même structure/organisation esport. 
+
+Même si elles sont rattachées à la même structure/organisation esport, ces équipes sont considérées comme des équipes distinctes. Plusieurs équipes rattachées à la même structure/organisation esport au sein d'une ligue locale doivent avoir des listes de joueurs distinctes. Les joueurs doivent se conformer aux règles d'éligibilité inscrites dans le présent règlement.
+
+- Exemple : un transfert entre deux équipes sœurs est considéré comme un transfert entre deux équipes qui n'appartiennent pas à la même structure/organisation, et est donc soumis aux mêmes conditions réglementaires.
+
+Il est également demandé aux équipes d'une même structure/organisation d'afficher des noms facilitant l'identification de chacune d'entre elles, mais peuvent conserver leur tag de structure/organisation.
+
+- Exemple de noms non autorisés : EVAxAlpha1, EVAxAlpha2  
+- Exemple de noms autorisés : EVAxAlpha, EVAxBêta
+
+  3. Tournois régionaux 
 
 Les rosters des équipes qualifiées au tournoi régional sont les mêmes que lors de la dernière étape du split écoulé, pouvant être complété jusqu'à 7 joueurs éligibles. 
 
