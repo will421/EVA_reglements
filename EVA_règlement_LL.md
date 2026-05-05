@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *05/05/2026* | *Article 3.2.2 \- Précision sur la règle des multi-équipes.*  |
 | *04/05/2026* | *Article 3.2.2 \- Le précédent article 3.2.2 sur les tournois régionaux devient l’article 3.2.3 Ajout du nouvel article 3.2.2 sur les Structures et Multi-équipes* |
 | *28/04/2026* | *Article 3.2 \- Ajustements de la clause de composition des équipes relatifs aux tournois régionaux*  |
 | *27/04/2026* | *Article 6.10.3 \- Clarification sur les comportements antisportifs et les informations communicables*  |
@@ -105,7 +106,9 @@ Il est également demandé aux équipes d'une même structure/organisation d'aff
 - Exemple de noms non autorisés : EVAxAlpha1, EVAxAlpha2  
 - Exemple de noms autorisés : EVAxAlpha, EVAxBêta
 
-  3. Tournois régionaux 
+Dans le cas où trois équipes de la même structure/organisation se retrouveraient dans une même division de ligue locale, et que la ligue locale contient 3 divisions ou plus, l'équipe avec le seed le plus bas devra automatiquement descendre d'une division.
+
+3. Tournois régionaux 
 
 Les rosters des équipes qualifiées au tournoi régional sont les mêmes que lors de la dernière étape du split écoulé, pouvant être complété jusqu'à 7 joueurs éligibles. 
 
