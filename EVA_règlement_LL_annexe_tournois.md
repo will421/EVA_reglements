@@ -183,7 +183,7 @@ Les matchs des RC sont soumis à la même réglementation que mentionnée dans l
 
    1. ### ***Cartes éligibles***
 
-Les cartes pouvant êTRe choisies au cours de la Ligue Locale sont les suivantes :
+Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes :
 
 * **Ceres** : mode **DOMINATION**  
 * **Silva** : mode **DOMINATION**  
