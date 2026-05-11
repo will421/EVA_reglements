@@ -54,7 +54,7 @@ Seules les équipes ayant parvenu à se classer 1ere au classement final de leur
 La composition d’une équipe doit être la même que celle qui a été déclarée lors de l'Étape de Ligue Locale d’avril. Il n’est pas possible d’enlever un joueur de cette composition.  
 Cette composition peut être complétée par des joueurs éligibles jusqu’à disposer de 7 joueurs. 
 
-*La non-inscription d’un joueur dans une équipe de LL au mois de mai lui permet donc de rejoindre l’une des équipes pour le RC ou le TN.*
+*La non-inscription d’un joueur dans une équipe de LL au mois de mai lui permet donc de rejoindre l’une des équipes pour le RC.*
 
 3. ## **Prix de participation**
 
@@ -209,12 +209,6 @@ Les Organisateurs se réservent la possibilité de modifier les cartes indiquée
 
 3. Alternance de ban et de picks de cartes
 
-**Pile ou Face**
-
-Lors des quarts de finale, le pile ou face est remplacé par un système de seeding.
-
-L’équipe la mieux seedée est considérée comme l’équipe gagnante du pile ou face.
-
 **Choix du side et personnage joué**
 
 L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage, Trooper, Rogue, Mecasme, Explorer joué par les deux équipes et l’équipe Home aura la priorité sur le choix du skin.
@@ -245,9 +239,14 @@ L’équipe Away hérite de la carte de la partie 5 \- BO5
 
 5. Choix du side et personnage joué
 
-6. Alternance de ban et de picks de cartes
-
+6. Alternance de ban et de picks de cartes  
    
+
+**Pile ou Face**
+
+Lors des quarts de finale, le pile ou face est remplacé par un système de seeding.
+
+L’équipe la mieux seedée est considérée comme l’équipe gagnante du pile ou face.
 
 **Choix du side et personnage joué**
 
