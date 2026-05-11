@@ -10,13 +10,12 @@
 
    
 
-Le présent règlement est une annexe complémentaire au Règlement Ligues Locales 2025 (ci-après “**Règlement LL**”. L’annexe a pour objet de définir l’ensemble des règles spécifiques aux Coupes Régionales (ci-après, “**RC**”) et au Tournoi National (ci-après, “**TN**”).
-
+Le présent règlement est une annexe complémentaire au Règlement Ligues Locales 2025 (ci-après “**Règlement LL**”. L’annexe a pour objet de définir l’ensemble des règles spécifiques aux Coupes Régionales (ci-après, “**RC**”).  
 L’annexe s’impose à : 
 
 - EVA en tant qu’Organisateur,
 
-- chaque Salle EVA organisant un Coupe Régionale en tant que Co-Organisateur,
+- chaque Salle EVA organisant une Coupe Régionale en tant que Co-Organisateur,
 
 - et à toute personne qui participent aux Coupes Régionales et notamment aux joueurs titulaires, aux remplaçants, aux équipes, aux coachs, aux managers (ci-après, les “**Participants**”)
 
