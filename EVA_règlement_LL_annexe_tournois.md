@@ -192,11 +192,9 @@ Les cartes pouvant êTRe choisies au cours de la Ligue Locale sont les suivantes
 * **Polaris** : mode **DOMINATION**  
 * **The Cliff** : mode **DOMINATION**  
 * **Helios Station** : mode **DOMINATION**  
-* **Lunar Outpost** : mode **DOMINATION**  
 * **Atlantis** : mode **DOMINATION**  
 * **Engine :** mode **DOMINATION**  
-* **Outlaw** : mode **HARDPOINT**  
-* **Horizon** : mode **DOMINATION** (à partir d’Aout 2025 \- soit Septembre en officiel)
+* **Horizon** : mode **DOMINATION**
 
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
 
@@ -206,14 +204,11 @@ Les Organisateurs se réservent la possibilité de modifier les cartes indiquée
 
 **Pour information, cet outil permet d’effectuer la sélection ainsi :** 
 
-1. Pile ou face (à effectuer hors-jeu) \- Gagnant choisit d’êRCe Home ou Away (le perdant hérite du statut restant)
+1. Pile ou face (à effectuer hors-jeu) \- Gagnant choisit d'être Home ou Away (le perdant hérite du statut restant)
 
 2. Choix du side et personnage joué
 
 3. Alternance de ban et de picks de cartes
-
- 
-
 
 **Pile ou Face**
 
@@ -223,7 +218,7 @@ L’équipe la mieux seedée est considérée comme l’équipe gagnante du pile
 
 **Choix du side et personnage joué**
 
-L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (RCooper **ONLY**) joué par les deux équipes.
+L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage, Trooper, Rogue, Mecasme, Explorer joué par les deux équipes et l’équipe Home aura la priorité sur le choix du skin.
 
 **Alternance de ban et de picks de cartes**
 
@@ -235,7 +230,9 @@ L’équipe Away sélectionne la carte de la partie 1
 L’équipe Home sélectionne la carte de la partie 2  
 L’équipe Away bannie une carte (3)  
 L’équipe Home bannie une carte (4)  
-L’équipe Away sélectionne la carte de la partie 3
+L’équipe Away choisit la carte 3
+
+L’équipe Away hérite de la carte de la partie 5 \- BO5
 
 ### 
 
@@ -245,7 +242,7 @@ L’équipe Away sélectionne la carte de la partie 3
 
 **Pour information, cet outil permet d’effectuer la sélection ainsi :** 
 
-4. Pile ou face (à effectuer hors-jeu) \- Gagnant choisit d’êRCe Home ou Away (le perdant hérite du statut restant)
+4. Pile ou face (à effectuer hors-jeu) \- Gagnant choisit d'être Home ou Away (le perdant hérite du statut restant)
 
 5. Choix du side et personnage joué
 
@@ -255,7 +252,7 @@ L’équipe Away sélectionne la carte de la partie 3
 
 **Choix du side et personnage joué**
 
-L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage (RCooper **ONLY**) joué par les deux équipes.
+L’équipe ***Home*** décide du side qu’elle jouera pendant toute la durée du Best-Of ainsi que le personnage, Trooper, Rogue, Mecasme, Explorer joué par les deux équipes et l’équipe Home aura la priorité sur le choix du skin.
 
 **Alternance de ban et de picks de cartes**
 
@@ -275,10 +272,8 @@ L’équipe Away sélectionne la carte de la partie 5
 
 Pour rappel, en citation du Règlement Ligue Locale : 
 
-*En complément des équipements fournis par EVA, le joueur s’engage à jouer avec son propre matériel de protection conRCe la RCanspiration. A savoir :* 
+*En complément des équipements fournis par EVA, le joueur s’engage à jouer avec son propre matériel de protection contre la transpiration. A savoir :* 
 
-- *Bonnet anti-RCanspiration*  
-- *Facemask avant*  
-- *Facemask arrière*
+- *Bonnet anti-Transpiration*
 
-Lors des Coupes Régionales et Tournoi National, le manquement à cette mention sera sanctionné d’un kill admin au début de chaque carte jouée avec un facemask prêté par la salle.
+Lors des Coupes Régionales, le manquement à cette mention sera sanctionné d’un kill admin au début de chaque carte jouée avec un bonnet prêté par la salle.
