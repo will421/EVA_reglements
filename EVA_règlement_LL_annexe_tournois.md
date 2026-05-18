@@ -10,7 +10,7 @@
 
    
 
-Le présent règlement est une annexe complémentaire au Règlement Ligues Locales 2025 (ci-après “**Règlement LL**”. L’annexe a pour objet de définir l’ensemble des règles spécifiques aux Coupes Régionales (ci-après, “**RC**”).  
+Le présent règlement est une annexe complémentaire au Règlement Ligues Locales 2026 (ci-après “**Règlement LL**”. L’annexe a pour objet de définir l’ensemble des règles spécifiques aux Coupes Régionales (ci-après, “**RC**”).  
 L’annexe s’impose à : 
 
 - EVA en tant qu’Organisateur,
