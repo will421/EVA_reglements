@@ -71,6 +71,7 @@ Sont considérés **inéligibles** à la participation en Ligue Locale les joueu
 - tout Participants inscrit ou ayant été inscrit au sein d’une autre Ligue Locale durant le même Segment (Split),   
 - Tous Participants inscrit au sein d’une autre équipe engagée dans la même Ligue Locale lors de l’étape en cours ou précédente.   
   - Exemple : Un joueur jouant dans l’équipe A au mois de février et souhaitant changer pour l’équipe B, ne pourra jouer pour l’équipe B qu’à la Ligue Locale du mois d’avril. (Il ne peut pas jouer la Ligue Locale du mois de mars effectuant ainsi un gel.)  
+  - Pour appliquer le gel, l'inscription fait foi. Si un joueur / une joueuse est inscrit(e) au mois de juin, mais se désinscrit avant d'avoir joué sa ligue locale de juin, il / elle pourra jouer en juillet. Toutefois, il est demandé que cette désinscription soit communiquée et effective sur EVA Competitive au moins 7 jours calendaires avant la tenue de la division de ligue locale concernée. Passé ce délai, et pour reprendre l'exemple précédent, le joueur / la joueuse devrait ainsi rejouer à partir d'août.   
 - ainsi que toute personne faisant l’objet d’une sanction esportive précisant l’interdiction spécifique ou non de participer à une compétition esportive EVA.
 
 Pour les salles effectuant leur deux premiers mois de compétition, le troisième critère d’éligibilité est assouplie en enlevant la mention “ou précédente”. 
