@@ -163,7 +163,7 @@ Les Organisateurs se réservent le droit de refuser la participation à la Ligue
 
 9. ## **Prix de participation**
 
-Chaque soirée de Ligue Locale oblige les équipes participantes à poser entre 4 et 12 sessions EVA Pass ou entre 1 à 3 sessions EVA Pass par joueur. Ce nombre de sessions est fixé par les gérants de la salle du Co-Organisateur. Le prix de participation doit obligatoirement être des sessions EVA Pass, et ne peut être en argent réel. Si le joueur a déjà utilisé l’ensemble des sessions contenues dans son EVA Pass pour le mois, il est en mesure de régler sa participation pour l’étape de division locale du même mois via des sessions supplémentaires.
+Chaque soirée de Ligue Locale oblige les équipes participantes à poser 8 sessions EVA Pass ou 2 sessions EVA Pass par joueur. Le prix de participation doit obligatoirement être des sessions EVA Pass, et ne peut être en argent réel. Si le joueur a déjà utilisé l’ensemble des sessions contenues dans son EVA Pass pour le mois, il est en mesure de régler sa participation pour l’étape de division locale du même mois via des sessions supplémentaires.
 
 Il est du devoir du capitaine de s’assurer que les joueurs de l’équipe posent le nombre suffisant de sessions EVA Pass.
 
@@ -547,6 +547,12 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Lever son casque lors d’une pause technique ou pendant la partie / exclusion temporaire (45 sec) et retour au spawn
 
+* Ne pas avoir les deux mains sur son arme pour tirer / avertissement ou kill au moment du respawn
+
+* Avoir un coude au sol / kill immédiat ou au respawn
+
+* Avoir la tête au sol / kill immédiat ou au respawn
+
 Les joueurs ne respectant pas cette règle pourront être sanctionnés de la manière suivante en fonction de la gravité et/ou de la répétition de comportements dangereux :
 
 * avertissements par l'Administrateur  
@@ -557,8 +563,6 @@ Les joueurs ne respectant pas cette règle pourront être sanctionnés de la man
 * exclusion pour une prochaine soirée de compétition
 
 * exclusion de la compétition
-
-Chaque joueur bénéficie de 2 avertissements par BO.
 
 Au bout de 2 avertissements le joueur s’expose à un kill pour toute action jugée illicite ou controversée.
 
@@ -584,8 +588,13 @@ Aucun comportement antisportif ne sera toléré et notamment :
 
 * Lorsque touché par une sticky, se précipiter vers l’adversaire pour lui faire prendre des dégâts également / kill instantané ou au respawn
 
+Le trashtalk se définit comme tout comportement dirigé de manière directe et/ou indirecte à l'encontre de son adversaire. Le trashtalk est autorisé tant que celui-ci ne porte pas atteinte au joueur en question et qu'il n'y a pas d'action provocatrice. 
 
-## En cas de comportement antisportif à plusieurs reprises, les Organisateurs ont toutes libertés pour exclure temporairement ou définitivement un joueur d’une carte, d’un match ou de la compétition.
+* "-1", "-2", "-3", "-4", "Full", "Mort" ne sont pas considérés comme un comportement antisportif.  
+* "T'es nul", "Rentre chez toi", et tous types d'insultes sont considérés comme des comportements antisportifs.  
+* Crier sur un adversaire en se tournant et avançant vers lui est considéré comme une action provocatrice donc comportement antisportif.
+
+## En cas de comportement antisportif ou de trashtalk non autorisé à plusieurs reprises, les Organisateurs ont toutes libertés pour exclure temporairement ou définitivement un joueur d’une carte, d’un match ou de la compétition.
 
 4. ## **Pause technique**
 
