@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *19/06/2026* | *Article 3.2.1 \- Précisions quant à la mécanique de gel.  Article 3.9 \- Ajustement du prix de participation dans une volonté d'uniformisation au travers de toutes les ligues locales. Article 6.10.1 \- Modifications des déplacements et mouvements autorisés/non autorisés. Modification du nombre d'avertissements par BO.  Article 6.10.3 \- Ajout d'une règle sur le "trashtalk" Article 6.11.1 \- Précisions quant aux conditions de pause et au nombre de pauses techniques par BO3 et BO5.  Article 6.14 \- Ajout de la nécessité d'un Facemask avant PICO (applicable à partir du 27 septembre 2026\)* |
 | *05/05/2026* | *Article 3.2.2 \- Précision sur la règle des multi-équipes.*  |
 | *04/05/2026* | *Article 3.2.2 \- Le précédent article 3.2.2 sur les tournois régionaux devient l’article 3.2.3 Ajout du nouvel article 3.2.2 sur les Structures et Multi-équipes* |
 | *28/04/2026* | *Article 3.2 \- Ajustements de la clause de composition des équipes relatifs aux tournois régionaux*  |
@@ -619,11 +620,13 @@ Les joueurs ne sont pas autorisés à mettre le jeu en pause après le lancement
 * la pause ne doit pas excéder 5 minutes sauf si l’Administrateur autorise une pause plus longue  
 * La pause pour un problème technique n’est pas autorisée lorsqu’une équipe atteint 90% du score de Domination ou Hardpoint.
 
+  * Une pause entre 90 % et 95 % peut être autorisée uniquement si l’écart entre les deux équipes est strictement supérieur à 30 %.
+
 Dans le cas où un joueur ne serait pas apte, pour raisons de santé, à reprendre la partie en cours alors son équipe aura le choix entre continuer le match en jouant à trois contre quatre ou en faisant remplacer le joueur inapte par le remplaçant de l’équipe ou en déclarant forfait.
 
 Ce forfait sera considéré comme un Forfait Volontaire et est donc soumis aux mentions de la section 6.13
 
-Dans tous les cas, chaque équipe est limitée à demander un maximum de 3 pauses par best-of.
+Pauses techniques : chaque équipe dispose de trois (3) pauses techniques par BO3 et par BO5, d’une durée maximale de soixante (60) secondes chacune, sauf autorisation d’EVA pour une durée plus longue.
 
 Dans le cas où l’Administrateur déciderait qu’un événement indépendant de la volonté des joueurs empêcherait totalement la reprise du match, alors le match sera reporté à une date ultérieure avec la règle suivante :
 
@@ -684,6 +687,8 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 - Bonnet anti-transpiration  
 - Facemask avant \- *uniquement sur casque HTC*  
 - Facemask arrière \- *uniquement sur casque HTC*
+
+- Facemask avant PICO (applicable à partir du 27 septembre 2026\)
 
   15. ## **Consommation sur place \- hygiène \- règlement intérieur**
 
