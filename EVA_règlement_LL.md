@@ -522,6 +522,8 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Déplacer le genou tout en ayant celui-ci en contact avec le sol / kill immédiat ou au respawn
 
+  * 
+
 * Pivoter sur ce genou au sol, de plus de 90° / kill immédiat ou au respawn
 
 * S’assoir (fesse(s) au sol) / kill immédiat ou au respawn
