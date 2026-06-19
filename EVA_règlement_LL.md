@@ -522,13 +522,15 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Déplacer le genou tout en ayant celui-ci en contact avec le sol / kill immédiat ou au respawn
 
-  * 
+  * Ce mouvement est considéré comme une glissade
 
-* Pivoter sur ce genou au sol, de plus de 90° / kill immédiat ou au respawn
+* Pivoter sur ce genou au sol, de plus de 90° par rapport à la première position / kill immédiat ou au respawn
 
 * S’assoir (fesse(s) au sol) / kill immédiat ou au respawn
 
 * Avancer avec une main au sol ou pivoter avec une main au sol / kill immédiat ou au respawn
+
+* Utiliser sa main comme appui principal au sol / kill immédiat ou au respawn
 
 * Sauter, qu’importe la position ou la situation / kill immédiat ou au respawn
 
@@ -542,7 +544,7 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Le retour au spawn doit s’effectuer en marchant / avertissement ou kill au moment du respawn
 
-* Lever son casque lors d’une pause technique  / exclusion temporaire (45 sec) et retour au spawn
+* Lever son casque lors d’une pause technique ou pendant la partie / exclusion temporaire (45 sec) et retour au spawn
 
 Les joueurs ne respectant pas cette règle pourront être sanctionnés de la manière suivante en fonction de la gravité et/ou de la répétition de comportements dangereux :
 
