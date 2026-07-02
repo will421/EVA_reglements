@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *02/07/2026* | *Article 6.14 \- Ajout des références de facemask pour les casques PICO* |
 | *19/06/2026* | *Article 3.2.1 \- Précisions quant à la mécanique de gel.  Article 3.9 \- Ajustement du prix de participation dans une volonté d'uniformisation au travers de toutes les ligues locales. Article 6.10.1 \- Modifications des déplacements et mouvements autorisés/non autorisés. Modification du nombre d'avertissements par BO.  Article 6.10.3 \- Ajout d'une règle sur le "trashtalk" Article 6.11.1 \- Précisions quant aux conditions de pause et au nombre de pauses techniques par BO3 et BO5.  Article 6.14 \- Ajout de la nécessité d'un Facemask avant PICO (applicable à partir du 27 septembre 2026\)* |
 | *05/05/2026* | *Article 3.2.2 \- Précision sur la règle des multi-équipes.*  |
 | *04/05/2026* | *Article 3.2.2 \- Le précédent article 3.2.2 sur les tournois régionaux devient l’article 3.2.3 Ajout du nouvel article 3.2.2 sur les Structures et Multi-équipes* |
@@ -688,7 +689,8 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 - Facemask avant \- *uniquement sur casque HTC*  
 - Facemask arrière \- *uniquement sur casque HTC*
 
-- Facemask avant PICO noir (applicable à partir du 27 septembre 2026\)
+- Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): [https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/](https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/)   
+- Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : [https://vr-expert.com/accessories/vr-accessories/pico-4-padding/](https://vr-expert.com/accessories/vr-accessories/pico-4-padding/) 
 
   15. ## **Consommation sur place \- hygiène \- règlement intérieur**
 
