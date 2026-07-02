@@ -688,7 +688,7 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 - Facemask avant \- *uniquement sur casque HTC*  
 - Facemask arrière \- *uniquement sur casque HTC*
 
-- Facemask avant PICO (applicable à partir du 27 septembre 2026\)
+- Facemask avant PICO noir (applicable à partir du 27 septembre 2026\)
 
   15. ## **Consommation sur place \- hygiène \- règlement intérieur**
 
