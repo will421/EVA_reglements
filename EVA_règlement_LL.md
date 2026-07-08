@@ -60,7 +60,8 @@ Pour valider leur participation au Tournoi, les Participants mineurs (âgés de 
 
 Un exemple d’autorisation parentale est disponible à cette adresse : [\[lien\]](https://docs.google.com/document/d/1jQHKMVqSqKeILeVeMGMhRjgWhO7QUyzeqttp2_IHu9c/edit?usp=sharing)
 
-Les Participants mineurs doivent envoyer cette autorisation parentale aux Organisateurs à l’adresse suivante : [esports@eva.gg](mailto:esports@eva.gg) 
+Les participants mineurs doivent envoyer cette autorisation parentale aux co-organisateurs à l’adresse mail de la salle concernée.
+
 
 2. ## **Composition des équipes**
 
