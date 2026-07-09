@@ -95,6 +95,8 @@ Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tou
 
 \- 31/12/2026 (\#2)
 
+Une équipe de Ligue Locale est en mesure de faire appel à un coach, soit à titre de prestation, soit en tant que membre à part entière de celle-ci. 
+
 2. Structure et Multi-équipes
 
 Une division de ligue locale ne peut accueillir plus de deux équipes rattachées à la même structure/organisation esport. 
