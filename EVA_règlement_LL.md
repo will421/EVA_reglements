@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *09/07/2026* | *Article 3.2.1 \- Clarification sur la possibilité d’avoir un coach pour une équipe de ligue locale.*  |
 | *02/07/2026* | *Article 6.14 \- Ajout des références de facemask pour les casques PICO* |
 | *19/06/2026* | *Article 3.2.1 \- Précisions quant à la mécanique de gel.  Article 3.9 \- Ajustement du prix de participation dans une volonté d'uniformisation au travers de toutes les ligues locales. Article 6.10.1 \- Modifications des déplacements et mouvements autorisés/non autorisés. Modification du nombre d'avertissements par BO.  Article 6.10.3 \- Ajout d'une règle sur le "trashtalk" Article 6.11.1 \- Précisions quant aux conditions de pause et au nombre de pauses techniques par BO3 et BO5.  Article 6.14 \- Ajout de la nécessité d'un Facemask avant PICO (applicable à partir du 27 septembre 2026\)* |
 | *05/05/2026* | *Article 3.2.2 \- Précision sur la règle des multi-équipes.*  |
@@ -95,7 +96,7 @@ Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tou
 
 \- 31/12/2026 (\#2)
 
-Une équipe de Ligue Locale est en mesure de faire appel à un coach, soit à titre de prestation, soit en tant que membre à part entière de celle-ci. 
+Une équipe de Ligue Locale est en mesure de faire appel à un coach, soit à titre de prestation, soit en tant que membre. Dans les deux cas de figure, il est considéré comme membre à part entière de celle-ci. 
 
 2. Structure et Multi-équipes
 
