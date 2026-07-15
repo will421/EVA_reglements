@@ -559,6 +559,8 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Avoir la tête au sol / kill immédiat ou au respawn
 
+À noter que la prise d’information, du fait de l’allumage des caméras du casque de réalité virtuelle suite à une perte de tracking ou à un choc, est considérée comme involontaire et ne donne pas lieu à un kill admin. À contrario, tout souci lié au tracking du casque déclenché de manière volontaire donne lieu à un kill admin.  
+
 Les joueurs ne respectant pas cette règle pourront être sanctionnés de la manière suivante en fonction de la gravité et/ou de la répétition de comportements dangereux :
 
 * avertissements par l'Administrateur  
@@ -587,6 +589,8 @@ Les joueurs ont l’interdiction de rester plus de 4 secondes dans un téléport
 Aucun comportement antisportif ne sera toléré et notamment : 
 
 * Positionner sa main dominante devant sa main secondaire sur son arme / kill instantané ou au respawn
+
+* 
 
 * En-dehors des informations obtenues lors des 2 secondes suivant la mort, donner des informations sur la position ou l’état des ennemis rencontrés lors du retour au spawn / kill au respawn ;
 
