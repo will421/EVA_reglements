@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *15/07/2026* | *Article 6.10.1 \- Clarification des sanctions applicables lors d'un problème de tracking du casque de réalité virtuelle. Article 6.10.3 \- Clarification sur les informations pouvant être communiquées entre la mort et la réapparition.* |
 | *09/07/2026* | *Article 3.2.1 \- Clarification sur la possibilité d’avoir un coach pour une équipe de ligue locale.*  |
 | *02/07/2026* | *Article 6.14 \- Ajout des références de facemask pour les casques PICO* |
 | *19/06/2026* | *Article 3.2.1 \- Précisions quant à la mécanique de gel.  Article 3.9 \- Ajustement du prix de participation dans une volonté d'uniformisation au travers de toutes les ligues locales. Article 6.10.1 \- Modifications des déplacements et mouvements autorisés/non autorisés. Modification du nombre d'avertissements par BO.  Article 6.10.3 \- Ajout d'une règle sur le "trashtalk" Article 6.11.1 \- Précisions quant aux conditions de pause et au nombre de pauses techniques par BO3 et BO5.  Article 6.14 \- Ajout de la nécessité d'un Facemask avant PICO (applicable à partir du 27 septembre 2026\)* |
@@ -590,9 +591,15 @@ Aucun comportement antisportif ne sera toléré et notamment :
 
 * Positionner sa main dominante devant sa main secondaire sur son arme / kill instantané ou au respawn
 
-* 
-
 * En-dehors des informations obtenues lors des 2 secondes suivant la mort, donner des informations sur la position ou l’état des ennemis rencontrés lors du retour au spawn / kill au respawn ;
+
+  * Précision sur le fonctionnement : 
+
+    * Un joueur dispose de 2 secondes suivant la mort pour communiquer les informations autour de soi (position de l’adversaire ayant fait l’élimination, nombre de joueurs adverses encore présents, position d’un adversaire supplémentaire visible lors de la mort) 
+
+    * Durant le retour au spawn, il n’est pas autorisé de donner des informations sur la position ou les mouvements adverses rencontrés. Toute autre information peut être communiquée. 
+
+    * Une fois de retour au spawn, toute information peut être communiquée. 
 
 * Avoir une partie de son corps virtuel dans une texture du jeu et permettant un avantage induit / kill instantané ou au respawn
 
