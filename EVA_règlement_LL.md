@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *16/07/2026* | *Article 6.13 \- Clarification de la mécanique des forfaits et des points de Ligues Locales dans ce cas précis.*  |
 | *15/07/2026* | *Article 6.10.1 \- Clarification des sanctions applicables lors d'un problème de tracking du casque de réalité virtuelle. Article 6.10.3 \- Clarification sur les informations pouvant être communiquées entre la mort et la réapparition.* |
 | *09/07/2026* | *Article 3.2.1 \- Clarification sur la possibilité d’avoir un coach pour une équipe de ligue locale.*  |
 | *02/07/2026* | *Article 6.14 \- Ajout des références de facemask pour les casques PICO* |
@@ -686,11 +687,11 @@ Tout manquement à cette règle exposera les fautifs à une disqualification imm
 
 13. ## **Forfait.**
 
-Dans le cas où une équipe est dans l’incapacité de participer à un match, pour quelque raison que ce soit, alors l’équipe sera considérée comme déclarant forfait pour ce match et l’équipe adverse sera considérée automatiquement comme ayant remporté le match concerné.
+Dans le cas où une équipe serait dans l’incapacité de participer à un match, pour quelque raison que ce soit, elle sera considérée comme déclarant forfait pour ce match et l’équipe adverse sera automatiquement considérée comme ayant remporté le match concerné.
 
-L’équipe déclarant forfait est automatiquement considérée comme dernière de sa Division.
+L’équipe déclarant forfait à une ligue locale (entendons : inscrite et ne se présentant pas) est automatiquement considérée comme dernière de sa division. Elle ne remporte aucun point lors de la soirée de ligue locale pour laquelle elle est déclarée forfait.
 
-Si une équipe déclare forfait volontairement à deux reprises, elle sera alors déclarée forfait sur toute la durée du Split et accusera donc la dernière place du classement. De plus, tous les matchs joués par cette équipe seront annulés.
+Si une équipe déclare forfait à une ligue locale (entendons : inscrite et ne se présentant pas) volontairement à deux reprises, elle sera alors déclarée forfait pour toute la durée du Split et accusera donc la dernière place du classement. De plus, tous les matchs joués par cette équipe seront annulés, ainsi que ses points obtenus lors de l’ensemble du split de ligue locale concerné.
 
 14. ## **Matériel mis à disposition par les Organisateurs**
 
