@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *20/07/2026* | *Article 6.6 \- Clarification des sanctions en cas de non-respect des choix de personnalisation des avatars en match.*   |
 | *16/07/2026* | *Article 6.13 \- Clarification de la mécanique des forfaits et des points de Ligues Locales dans ce cas précis.*  |
 | *15/07/2026* | *Article 6.10.1 \- Clarification des sanctions applicables lors d'un problème de tracking du casque de réalité virtuelle. Article 6.10.3 \- Clarification sur les informations pouvant être communiquées entre la mort et la réapparition.* |
 | *09/07/2026* | *Article 3.2.1 \- Clarification sur la possibilité d’avoir un coach pour une équipe de ligue locale.*  |
@@ -489,6 +490,12 @@ Les 4 joueurs de la même équipe doivent tous utiliser les mêmes objets de per
 Toute décision prise par les Organisateurs sur l’interdiction d’un objet de personnalisation sera communiquée aux équipes dans les plus brefs délais.
 
 Tous les joueurs de la partie (8) doivent utiliser **le même caractère (trooper ou mecha ou rogue ou cosmonaute uniquement)** sélectionné pendant le choix des cartes durant les matchs de la Ligue Locale.
+
+Si un joueur n'a pas le même skin que ses coéquipiers, et que cela n'est pas dû à un bug, il reçoit un kill admin au début de chacune des cartes d'un match sur lesquelles la situation se présente.
+
+Si l'ensemble de l'équipe n'a pas le même skin d'une carte à une autre, et que cela n'est pas dû à un bug, au début d'une carte d'un match, l'équipe est déclarée forfait. 
+
+Une équipe qui fait entrer en jeu un remplaçant doit s'assurer, avant le début du match, que ce joueur possède le skin utilisé ; dans le cas contraire, ce joueur sera sanctionné d'un kill admin au début de la partie.
 
 ## 
 
