@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *23/07/2026* | *Article 6.5.1 \- Ajout du map pool jouable en ligues locales et EVA Versus du 01/09/2026 au 31/12/2026. (Le map pool des Tournois Régionaux du Split 2 (Octobre) sera annoncé entre fin juillet et août)  Article 6.10.1 \- Ajout de l'interdiction d'entrer en collision avec le leurre créé par l'utilitaire Echo* |
 | *20/07/2026* | *Article 6.6 \- Clarification des sanctions en cas de non-respect des choix de personnalisation des avatars en match.*   |
 | *16/07/2026* | *Article 6.13 \- Clarification de la mécanique des forfaits et des points de Ligues Locales dans ce cas précis.*  |
 | *15/07/2026* | *Article 6.10.1 \- Clarification des sanctions applicables lors d'un problème de tracking du casque de réalité virtuelle. Article 6.10.3 \- Clarification sur les informations pouvant être communiquées entre la mort et la réapparition.* |
@@ -422,7 +423,7 @@ Les trois périodes et leurs cartes sont les suivantes :
 
 - 01/01/2026 au 30/04/2026 (\#1) : *Silva, Artefact, The Cliff, Helios Station, Atlantis, Engine, Outlaw, Horizon*  
 - 01/05/2026 au 31/08/2026 (\#2) \- ci-dessous.  
-- 01/09/2026 au 31/12/2026 (\#3) \- *annoncer plus tard dans l’année*
+- 01/09/2026 au 31/12/2026 (\#3) \- *Ceres, Silva, Outlaw, Engine, Polaris, The Cliff, Atlantis, Reef Point*
 
 Les cartes jouables sur la périodes 01/05/2026 au 31/08/2026 (\#2) sont :
 
@@ -567,6 +568,8 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 * Avoir un coude au sol / kill immédiat ou au respawn
 
 * Avoir la tête au sol / kill immédiat ou au respawn
+
+* Entrer en collision avec le leurre créé par l’utilitaire Echo / kill immédiat ou au respawn
 
 À noter que la prise d’information, du fait de l’allumage des caméras du casque de réalité virtuelle suite à une perte de tracking ou à un choc, est considérée comme involontaire et ne donne pas lieu à un kill admin. À contrario, tout souci lié au tracking du casque déclenché de manière volontaire donne lieu à un kill admin.  
 
