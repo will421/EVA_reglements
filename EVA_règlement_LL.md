@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *28/07/2026* | *Article 6.5.1 \- Ajout du map pool jouable pour les Tournois Régionaux du Split 2 (Octobre & Novembre) & précision quant au mode de jeu sur les maps pool éligibles en Ligue Locale, EVA Versus et Tournois Régionaux.*  |
 | *23/07/2026* | *Article 6.5.1 \- Ajout du map pool jouable en ligues locales et EVA Versus du 01/09/2026 au 31/12/2026. (Le map pool des Tournois Régionaux du Split 2 (Octobre) sera annoncé entre fin juillet et août)  Article 6.10.1 \- Ajout de l'interdiction d'entrer en collision avec le leurre créé par l'utilitaire Echo* |
 | *20/07/2026* | *Article 6.6 \- Clarification des sanctions en cas de non-respect des choix de personnalisation des avatars en match.*   |
 | *16/07/2026* | *Article 6.13 \- Clarification de la mécanique des forfaits et des points de Ligues Locales dans ce cas précis.*  |
