@@ -436,6 +436,17 @@ Les cartes jouables sur la périodes 01/05/2026 au 31/08/2026 (\#2) sont :
 * **The Cliff**: mode **DOMINATION**  
 * **Silva**: mode **DOMINATION**
 
+Les cartes jouables sur la périodes 01/09/2026 au 31/12/2026 (\#3) sont :
+
+* **Ceres**: mode **DOMINATION**  
+* **Silva**: mode **DOMINATION**  
+* **Engine**: mode **DOMINATION**  
+* **Polaris**: mode **DOMINATION**  
+* **The Cliff**: mode **DOMINATION**  
+* **Atlantis:** mode **DOMINATION**  
+* **Reef Point**: mode **DOMINATION**  
+* **Outlaw**: mode **HARDPOINT**
+
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
 
 Lors des circuits compétitifs auxquelles les Ligues Locales participent, un mappool différent pourra être défini.
@@ -453,6 +464,20 @@ Lors des circuits compétitifs auxquelles les Ligues Locales participent, un map
 - Polaris
 
 Toutes en mode **DOMINATION.**
+
+**Pour les Tournois Régionaux du Split 2 (Octobre & Novembre), les cartes éligibles sont :** 
+
+- Ceres  
+- Silva  
+- Outlaw  
+- Engine  
+- Polaris  
+- The Cliff  
+- Atlantis  
+- Artefact  
+- Reef Point 
+
+Toutes en mode **DOMINATION (excepté Outlaw).**
 
 2. ## **Choix des cartes**
 
