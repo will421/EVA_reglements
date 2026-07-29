@@ -200,7 +200,7 @@ La Ligue Locale peut avoir lieu tous les mois de l’année et ne souffre d’au
 Dans tous les cas, le format de la Ligue Locale doit respecter les critères suivants : 
 
 - Disposer d’au moins 1 division  
-- La Division 1 doit toujours contenir 4 équipes (sauf dérogation)  
+- La Division 1 doit toujours contenir 4 équipes (sauf dérogation à 3 équipes)  
 - Chaque Division ne peut contenir plus de 4 équipes  
 - Réaliser une unique étape par mois pour chaque division  
 - Réaliser la confrontation des équipes d’une même division sous le format RoundRobin, match aller en BO3  
