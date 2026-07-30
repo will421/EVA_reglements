@@ -174,7 +174,7 @@ Les Organisateurs se réservent le droit de refuser la participation à la Ligue
 
 9. ## **Prix de participation**
 
-Chaque soirée de Ligue Locale oblige les équipes participantes à poser 8 sessions EVA Pass par équipe ou 2 sessions EVA Pass par joueur. Le prix de participation doit obligatoirement être des sessions EVA Pass, et ne peut être en argent réel. Si le joueur a déjà utilisé l’ensemble des sessions contenues dans son EVA Pass pour le mois, il est en mesure de régler sa participation pour l’étape de division locale du même mois via des sessions supplémentaires.
+Chaque soirée de Ligue Locale oblige les équipes participantes à poser 8 sessions EVA Pass par équipe ou 2 sessions EVA Pass par joueur (dans la limite de 8 sessions EVA Pass pour l'ensemble de l'équipe). Le prix de participation doit obligatoirement être des sessions EVA Pass, et ne peut être en argent réel. Si le joueur a déjà utilisé l’ensemble des sessions contenues dans son EVA Pass pour le mois, il est en mesure de régler sa participation pour l’étape de division locale du même mois via des sessions supplémentaires.
 
 Il est du devoir du capitaine de s’assurer que les joueurs de l’équipe posent le nombre suffisant de sessions EVA Pass.
 
