@@ -104,7 +104,48 @@ Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tou
 
 Une équipe de Ligue Locale est en mesure de faire appel à un coach, soit à titre de prestation, soit en tant que membre. Dans les deux cas de figure, il est considéré comme membre à part entière de celle-ci. 
 
-2. Structure et Multi-équipes
+2. Composition des équipes et éligibilité \- Précisions sur les règles de mercato & enjeux applicables dès le mois d’août 2026 jusqu’à décembre 2026
+
+Les équipes sont composées de 4 à 7 joueurs (un capitaine ainsi que 3 à 6 joueurs) éligibles à la participation en Ligue Locale.   
+Sont considérés **inéligibles** à la participation en Ligue Locale les joueurs : 
+
+- Inscrits dans une équipe d’EVA Ligues,    
+- tout Participants inscrit ou ayant été inscrit au sein d’une autre Ligue Locale durant le même Segment (Split),   
+- ainsi que toute personne faisant l’objet d’une sanction esportive précisant l’interdiction spécifique ou non de participer à une compétition esportive EVA.
+
+Dans une volonté de tester des améliorations pour l’année 2027, nous avons choisi de supprimer la règle du gel : dès le mois d’août inclus, un changement d’équipe se fait d’un mois à l’autre et n'inclut plus de mois de gel.
+
+Le changement d’équipe doit toujours se faire au sein de la même ligue locale.
+
+→ Exemple : un joueur jouant en division 4 en septembre et rejoignant une équipe de division 1, ne pourra commencer à jouer en division 1 dans sa nouvelle équipe qu’à partir du mois d’octobre (et non plus en novembre avec l’ancienne règle).
+
+Les restrictions de changement de salle restent actives sur les mois de Ligue Locale d’octobre et de novembre. MAIS :
+
+→ Le mois de décembre n’est pas concerné par ces restrictions.
+
+→ La transition septembre-octobre, soit à la fin du split 2, autorise les mouvements entre les salles des joueurs et des équipes. Les conditions d’entrée dans d’autres Ligues Locales prévues par l’article 4.3 du règlement des Ligues Locales restent actives.
+
+Pour les salles effectuant leur deux premiers mois de compétition, le troisième critère d’éligibilité est assouplie en enlevant la mention “ou précédente”. 
+
+Toute équipe participant à un ou plusieurs mois de ligue locale avec des joueurs non-éligibles s’exposent à une annulation de leur résultat ainsi que les points obtenus lors de la ou les étapes incriminées. 
+
+L’inscription d’une équipe en Ligue Locale engage chaque joueur de cette équipe à participer au Tournoi. 
+
+La composition de l’équipe peut être complétée (jusqu’à 7 joueurs max dans l’équipe) par des joueurs **éligible**. Toute modification doit être annoncée au Co-Organisateur 72h à l’avance et en fournissant les informations nécessaires à l’ajout d’un joueur dans l’inscription de l’équipe.
+
+Au minimum deux joueurs de la composition initiale doivent rester inchangés d’une Étape à l’autre du même Segment. A défaut, les points remportés par l’équipe durant le Tournoi pourront être annulés.
+
+A partir de **Janvier 2027**, une équipe de Ligue Locale ne peut contenir au plus que deux personnes dont l’activité professionnelle principale s’effectue au sein d’une salle EVA.
+
+Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tous les Participants sera effacé, libérant chacun de leur engagement au sein des Ligues Locales. Les historiques seront supprimés aux dates suivantes : 
+
+\- 01/05/2026 (\#1)
+
+\- 31/12/2026 (\#2)
+
+Une équipe de Ligue Locale est en mesure de faire appel à un coach, soit à titre de prestation, soit en tant que membre. Dans les deux cas de figure, il est considéré comme membre à part entière de celle-ci. 
+
+3. Structure et Multi-équipes
 
 Une division de ligue locale ne peut accueillir plus de deux équipes rattachées à la même structure/organisation esport. 
 
@@ -121,13 +162,31 @@ Il est également demandé aux équipes d'une même structure/organisation d'aff
 
 Dans le cas où trois équipes de la même structure/organisation se retrouveraient dans une même division de ligue locale, et que la ligue locale contient 3 divisions ou plus, l'équipe avec le seed le plus bas devra automatiquement descendre d'une division.
 
-3. Tournois régionaux \- Split 1
+4. Tournois régionaux \- Split 1
 
 Les rosters des équipes qualifiées au tournoi régional sont les mêmes que lors de la dernière étape du split écoulé, pouvant être complété jusqu'à 7 joueurs éligibles. 
 
 - *Exemple : Joueur A a remporté le split 1 avec son équipe Alpha et était inscrit lors de la dernière étape. Ce joueur est donc inscrit d'office au tournoi régional du split 1 avec l'équipe Alpha. Le joueur A peut s'engager avec une autre équipe au début du split 2 de n'importe quelle autre ligue locale. En revanche, il ne pourra pas participer au Tournoi Régional avec l'équipe Alpha, bien que sa place soit verrouillée dans leur roster.*
 
 Les équipes qualifiées au tournoi régional peuvent changer de ligue locale entre deux splits à la condition de maintenir au moins deux joueurs du roster inscrit lors de la dernière étape du split précédent. En cas de non-respect de cette règle, leur place au tournoi régional leur sera retirée. 
+
+Dans le cas où une équipe qualifiée perdrait sa place au tournoi régional du split concerné, un repêchage sera effectué dans l'ordre suivant : 
+
+- La 2ème équipe au classement général du split de la ligue locale concernée.  
+- La 3ème équipe au classement général du split de la ligue locale concernée.  
+- Si ces deux précédentes options ne parviennent pas à donner un remplaçant, l'Organisateur se réserve le droit de réattribuer le slot.
+
+  5. Tournois régionaux \- Split 2
+
+→ Chaque équipe participante devra avoir le roster de la Ligue Locale du mois du Tournoi Régional concerné (octobre ou novembre).
+
+• Exemple : L’équipe Alpha jouant le tournoi de la région Sud-Est devra avoir le roster qu’elle déploiera à la Ligue Locale d’octobre de sa salle.
+
+→ Chaque équipe participante devra être composée d’un maximum de 7 joueurs & joueuses éligibles et pourra être complétée UNIQUEMENT par des joueurs & joueuses provenant de la salle que représente l’équipe (hors joueurs & joueuses bannis ou sanctionnés) ayant pris part au split 2 de sa ligue locale.
+
+• Exemple : L’équipe Alpha est composée de 6 joueurs et joueuses éligibles et souhaite recruter un dernier joueur. Elle doit prendre un joueur ou un joueuse d’une équipe issue de sa ligue locale ayant participé à la majorité du split 2 entre mai & septembre (au moins 3 étapes).
+
+→ Ces recrutements se font sans gel, en accord avec la suppression de cette règle précisée plus haut.
 
 Dans le cas où une équipe qualifiée perdrait sa place au tournoi régional du split concerné, un repêchage sera effectué dans l'ordre suivant : 
 
