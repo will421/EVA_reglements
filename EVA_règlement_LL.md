@@ -120,7 +120,7 @@ Il est également demandé aux équipes d'une même structure/organisation d'aff
 
 Dans le cas où trois équipes de la même structure/organisation se retrouveraient dans une même division de ligue locale, et que la ligue locale contient 3 divisions ou plus, l'équipe avec le seed le plus bas devra automatiquement descendre d'une division.
 
-3. Tournois régionaux 
+3. Tournois régionaux \- Split 1
 
 Les rosters des équipes qualifiées au tournoi régional sont les mêmes que lors de la dernière étape du split écoulé, pouvant être complété jusqu'à 7 joueurs éligibles. 
 
