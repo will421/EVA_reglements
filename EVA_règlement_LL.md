@@ -1069,32 +1069,7 @@ Par conséquent, les RC sont organisés avec 12 ou 14 ou 16 équipes. Dans le d�
 
   2. #### Format du Tournoi
 
-     1. ##### **12 équipes**
-
-La RC à 12 équipes s’organisent comme suit : 
-
-#### Phase de poules
-
-- 4 poules de 3 équipes  
-- 2 premiers de chaque poule se qualifient pour la phase suivante  
-- Matchs en BO3
-
-  #### Phase à élimination directe
-
-Le placement des équipes des pools dans la phase à élimination directe se fait tel que : 
-
-- 1er \- Poule A vs 2eme \- Poule C  
-- 1er \- Poule B vs 2eme \- Poule D  
-- 1er \- Poule C vs 2eme \- Poule B  
-- 1er \- Poule D vs 2eme \- Poule A
-
-Le format de cette phase s’effectue tel que : 
-
-- 1/4 de finale en BO5
-
-*Les vainqueurs de chaque ¼ finale sont qualifiés pour le Stage 1 de l’EVA Summit. La RC prend fin dès lors que les qualifiés sont connus.\**
-
-2. ##### **14 équipes**
+     1. ##### **14 équipes**
 
 La RC à 14 équipes s’organisent comme suit : 
 
@@ -1116,11 +1091,12 @@ Le placement des équipes des pools dans la phase à élimination directe se fai
 
 Le format de cette phase s’effectue tel que : 
 
-- 1/4 de finale en BO5
+- 1/4 de finale en BO5  
+- 1/2 de finale en BO5
 
-*Les vainqueurs de chaque ¼ finale sont qualifiés pour le Stage 1 de l’EVA Summit. La RC prend fin dès lors que les qualifiés sont connus.\**
+*Les vainqueurs de chaque ½ finale sont qualifiés pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
 
-3. ##### **16 équipes**
+2. ##### **16 équipes**
 
 La RC à 16 équipes s’organisent comme suit : 
 
@@ -1141,15 +1117,19 @@ Le placement des équipes des pools dans la phase à élimination directe se fai
 
 Le format de cette phase s’effectue tel que : 
 
-- 1/4 de finale en BO5
+- 1/4 de finale en BO5  
+- 1/2 de finale en BO5  
+- Petite demie en BO5
 
-*Les vainqueurs de chaque ¼ finale sont qualifiés pour le Stage 1 de l’EVA Summit. La RC prend fin dès lors que les qualifiés sont connus.\**
+*Les vainqueurs de chaque ½ finale sont qualifiés pour le Last Chance Tournament. Le vainqueur de la petite demie est aussi qualifié, portant le total à 3 équipes qualifiées pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
 
 3. #### Gagnants du Tournoi
 
    
 
-Les quatre premières équipes de chaque RC sont qualifiées pour participer au Stage 1 de l’EVA Summit le 12 juillet à EVA Paris EST..
+Les deux premières équipes de chaque RC à 14 équipes sont qualifiées pour participer au Last Chance Tournament le 29 novembre à EVA Paris EST \[à confirmer\].
+
+Les trois premières équipes de chaque RC à 16 équipes sont qualifiées pour participer au Last Chance Tournament le 29 novembre à EVA Paris EST \[à confirmer\].
 
 4. # **Déroulement des matchs**
 
@@ -1161,7 +1141,9 @@ Les matchs des RC sont soumis à la même réglementation que mentionnée dans l
 
    1. ### ***Cartes éligibles***
 
-Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes :
+      1. ## **Split 1** 
+
+Les cartes pouvant être choisies au cours des Tournois Régionaux \- Split 1 sont les suivantes :
 
 * **Ceres** : mode **DOMINATION**  
 * **Silva** : mode **DOMINATION**  
@@ -1172,6 +1154,24 @@ Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes
 * **Atlantis** : mode **DOMINATION**  
 * **Engine :** mode **DOMINATION**  
 * **Horizon** : mode **DOMINATION**
+
+Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
+
+2. ## **Split 2** 
+
+Les cartes pouvant être choisies au cours des Tournois Régionaux \- Split 2 sont les suivantes :
+
+* Ceres  
+* Silva  
+* Outlaw  
+* Engine  
+* Polaris  
+* The Cliff  
+* Atlantis  
+* Artefact  
+* Reef Point 
+
+Toutes en mode **DOMINATION (excepté Outlaw).**
 
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
 
@@ -1250,7 +1250,15 @@ Pour rappel, en citation du Règlement Ligue Locale :
 
 *En complément des équipements fournis par EVA, le joueur s’engage à jouer avec son propre matériel de protection contre la transpiration. A savoir :* 
 
-- *Bonnet anti-Transpiration*
+- *Bonnet anti-transpiration*  
+- *Facemask avant \- uniquement sur casque HTC*  
+- *Facemask arrière \- uniquement sur casque HTC*  
+- *\[LIEN PROFESSIONNEL\] Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/*   
+- *\[LIEN PROFESSIONNEL\] Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : https://vr-expert.com/accessories/vr-accessories/pico-4-padding/*   
+- *\[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : https://fr.aliexpress.com/item/1005004862615572.html*   
+- *\[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : https://amzn.eu/d/0fH0hNO8* 
+
+Les écouteurs intra-auriculaires seront autorisés lors des Tournois Régionaux du Split 2\. Plus d’informations sur les références autorisées à venir durant le mois d’août 2026\. 
 
 Lors des Coupes Régionales, le manquement à cette mention sera sanctionné d’un kill admin au début de chaque carte jouée avec un bonnet prêté par la salle.
 
