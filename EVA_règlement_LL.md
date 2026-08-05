@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *05/08/2026* | *Article 6.14 \- Ajout des références d’écouteurs intra-auriculaires et adaptateurs autorisés en Ligue Locale à partir du 1er septembre 2026\.*  |
 | *31/07/2026* | *Article 3.2.2 & Article 3.2.5 \- Ajout des modifications aux règles de mercato annoncées pour les ligues locales et les tournois régionaux. Article 3.9 \- Ajout d'une clarification autour du prix de participation à une ligue locale  Annexe A \- Regroupement de l'annexe des tournois régionaux au sein du règlement des ligues locales, et ajout des informations concernant les tournois régionaux du split 2*  |
 | *28/07/2026* | *Article 6.5.1 \- Ajout du map pool jouable pour les Tournois Régionaux du Split 2 (Octobre & Novembre) & précision quant au mode de jeu sur les maps pool éligibles en Ligue Locale, EVA Versus et Tournois Régionaux.*  |
 | *23/07/2026* | *Article 6.5.1 \- Ajout du map pool jouable en ligues locales et EVA Versus du 01/09/2026 au 31/12/2026. (Le map pool des Tournois Régionaux du Split 2 (Octobre) sera annoncé entre fin juillet et août)  Article 6.10.1 \- Ajout de l'interdiction d'entrer en collision avec le leurre créé par l'utilitaire Echo* |
@@ -806,7 +807,7 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 - \[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : [https://fr.aliexpress.com/item/1005004862615572.html](https://fr.aliexpress.com/item/1005004862615572.html)   
 - \[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : [https://amzn.eu/d/0fH0hNO8](https://amzn.eu/d/0fH0hNO8) 
 
-En complément des équipements fournis par EVA, le joueur est en mesure de jouer avec son propre matériel audio, à savoir : 
+En complément des équipements fournis par EVA, le joueur est en mesure de jouer avec son propre matériel audio (à partir du 1er septembre 2026), à savoir : 
 
 - [Ecouteurs intra-auriculaires Shure SE215](https://www.shure.com/fr-FR/produits/ecouteurs/se215?variant=SE215-CL-EFS)   
 - [Ecouteurs intra-auriculaires keephifi CCZ MC02](https://amzn.eu/d/0acRZvt5)  
