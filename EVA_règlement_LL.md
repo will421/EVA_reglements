@@ -806,7 +806,17 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 - \[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : [https://fr.aliexpress.com/item/1005004862615572.html](https://fr.aliexpress.com/item/1005004862615572.html)   
 - \[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : [https://amzn.eu/d/0fH0hNO8](https://amzn.eu/d/0fH0hNO8) 
 
-  15. ## **Consommation sur place \- hygiène \- règlement intérieur**
+En complément des équipements fournis par EVA, le joueur est en mesure de jouer avec son propre matériel audio, à savoir : 
+
+- [Ecouteurs intra-auriculaires Shure SE215](https://www.shure.com/fr-FR/produits/ecouteurs/se215?variant=SE215-CL-EFS)   
+- [Ecouteurs intra-auriculaires keephifi CCZ MC02](https://amzn.eu/d/0acRZvt5)  
+- [Ecouteurs intra-auriculaires Yinyoo CCZ DC01](https://amzn.eu/d/0bx0MTN3)  
+- [Ecouteurs intra-auriculaires Linsoul KZ ZS10 Pro 2](https://amzn.eu/d/09LO0un1)  
+- [Ecouteurs intra-auriculaires Linsoul KZ ZS10 Pro](https://amzn.eu/d/0iNOjWl6)
+
+À noter que, dans le cas où le joueur choisit de jouer avec des écouteurs intra-auriculaires, il doit s’assurer de disposer de l’adaptateur [BENFEI Adaptateur USB C vers Prise Audio](https://amzn.eu/d/0bq1R47S). (Obligatoire à partir du 1er janvier 2027\)
+
+15. ## **Consommation sur place \- hygiène \- règlement intérieur**
 
 La consommation de nourriture ou de boisson est strictement interdite dans les zones de jeu. Les Organisateurs peuvent tolérer la consommation de boissons non alcoolisées ou de nourriture dans la salle EVA, en dehors de la zone de jeu.
 
