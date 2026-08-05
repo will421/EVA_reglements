@@ -809,13 +809,13 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 
 En complément des équipements fournis par EVA, le joueur est en mesure de jouer avec son propre matériel audio (à partir du 1er septembre 2026), à savoir : 
 
-- [Ecouteurs intra-auriculaires Shure SE215](https://www.shure.com/fr-FR/produits/ecouteurs/se215?variant=SE215-CL-EFS)   
-- [Ecouteurs intra-auriculaires keephifi CCZ MC02](https://amzn.eu/d/0acRZvt5)  
-- [Ecouteurs intra-auriculaires Yinyoo CCZ DC01](https://amzn.eu/d/0bx0MTN3)  
-- [Ecouteurs intra-auriculaires Linsoul KZ ZS10 Pro 2](https://amzn.eu/d/09LO0un1)  
-- [Ecouteurs intra-auriculaires Linsoul KZ ZS10 Pro](https://amzn.eu/d/0iNOjWl6)
+- [Ecouteurs intra-auriculaires Shure SE215](https://www.shure.com/fr-FR/produits/ecouteurs/se215?variant=SE215-CL-EFS) (Prendre version sans micro)  
+- [Ecouteurs intra-auriculaires keephifi CCZ MC02](https://amzn.eu/d/0acRZvt5) (Prendre version sans micro)  
+- [Ecouteurs intra-auriculaires Yinyoo CCZ DC01](https://amzn.eu/d/0bx0MTN3) (Prendre version sans micro)  
+- [Ecouteurs intra-auriculaires Linsoul KZ ZS10 Pro 2](https://amzn.eu/d/09LO0un1) (Prendre version sans micro)  
+- [Ecouteurs intra-auriculaires Linsoul KZ ZS10 Pro](https://amzn.eu/d/0iNOjWl6) (Prendre version sans micro)
 
-À noter que, dans le cas où le joueur choisit de jouer avec des écouteurs intra-auriculaires, il doit s’assurer de disposer de l’adaptateur [BENFEI Adaptateur USB C vers Prise Audio](https://amzn.eu/d/0bq1R47S). (Obligatoire à partir du 1er janvier 2027\)
+À noter que, dans le cas où le joueur choisit de jouer avec des écouteurs intra-auriculaires, il doit s’assurer de disposer de l’adaptateur [BENFEI Adaptateur Jack 3,5mm](https://amzn.eu/d/0bq1R47S). (Obligatoire à partir du 1er janvier 2027\)
 
 15. ## **Consommation sur place \- hygiène \- règlement intérieur**
 
