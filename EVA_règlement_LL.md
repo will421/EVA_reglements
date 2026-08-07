@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *07/08/2026* | *Article 6.14 \- Clarification sur les facemask demandés sur casques HTC et PICO*  |
 | *05/08/2026* | *Article 6.14 \- Ajout des références d’écouteurs intra-auriculaires et adaptateurs autorisés en Ligue Locale à partir du 1er septembre 2026\.*  |
 | *31/07/2026* | *Article 3.2.2 & Article 3.2.5 \- Ajout des modifications aux règles de mercato annoncées pour les ligues locales et les tournois régionaux. Article 3.9 \- Ajout d'une clarification autour du prix de participation à une ligue locale  Annexe A \- Regroupement de l'annexe des tournois régionaux au sein du règlement des ligues locales, et ajout des informations concernant les tournois régionaux du split 2*  |
 | *28/07/2026* | *Article 6.5.1 \- Ajout du map pool jouable pour les Tournois Régionaux du Split 2 (Octobre & Novembre) & précision quant au mode de jeu sur les maps pool éligibles en Ligue Locale, EVA Versus et Tournois Régionaux.*  |
@@ -799,13 +800,12 @@ Chaque participant demeure pleinement responsable du matériel mis à sa disposi
 En complément des équipements fournis par EVA, le joueur s’engage à jouer avec son propre matériel de protection contre la transpiration. A savoir : 
 
 - Bonnet anti-transpiration  
-- Facemask avant \- *uniquement sur casque HTC*  
-- Facemask arrière \- *uniquement sur casque HTC*
-
-- \[LIEN PROFESSIONNEL\] Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): [https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/](https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/)   
-- \[LIEN PROFESSIONNEL\] Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : [https://vr-expert.com/accessories/vr-accessories/pico-4-padding/](https://vr-expert.com/accessories/vr-accessories/pico-4-padding/)   
-- \[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : [https://fr.aliexpress.com/item/1005004862615572.html](https://fr.aliexpress.com/item/1005004862615572.html)   
-- \[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : [https://amzn.eu/d/0fH0hNO8](https://amzn.eu/d/0fH0hNO8) 
+- Facemask avant & arrière \- *Sur casque HTC*  
+- Facemask avant \- Sur Casque PICO :   
+  - \[LIEN PROFESSIONNEL\] Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): [https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/](https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/)   
+  - \[LIEN PROFESSIONNEL\] Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : [https://vr-expert.com/accessories/vr-accessories/pico-4-padding/](https://vr-expert.com/accessories/vr-accessories/pico-4-padding/)   
+  - \[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : [https://fr.aliexpress.com/item/1005004862615572.html](https://fr.aliexpress.com/item/1005004862615572.html)   
+  - \[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : [https://amzn.eu/d/0fH0hNO8](https://amzn.eu/d/0fH0hNO8) 
 
 En complément des équipements fournis par EVA, le joueur est en mesure de jouer avec son propre matériel audio (à partir du 1er septembre 2026), à savoir : 
 
