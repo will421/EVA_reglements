@@ -4,7 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
-| *18/09/2026* |  |
+| *18/09/2026* | *Article 6.10.1 : Ajout d'une règle sur la tenue de la pièce 3D Article 6.10.1 : Ajout de clarifications sur la règle de la glissade du genou et assouplissement de la sanction relative.  Annexe 1 \- Article 3.1.1 : Ajout des lieux des tournois régionaux et du nombre d'équipes impliquées Annexe 1 \- Article 3.1.2.2 : Modification du nombre de qualifiés pour le Last Chance Tournament suite aux adaptations et aux rajouts de salles dans la compétition.* |
 | *07/08/2026* | *Article 6.14 \- Clarification sur les facemask demandés sur casques HTC et PICO*  |
 | *05/08/2026* | *Article 6.14 \- Ajout des références d’écouteurs intra-auriculaires et adaptateurs autorisés en Ligue Locale à partir du 1er septembre 2026\.*  |
 | *31/07/2026* | *Article 3.2.2 & Article 3.2.5 \- Ajout des modifications aux règles de mercato annoncées pour les ligues locales et les tournois régionaux. Article 3.9 \- Ajout d'une clarification autour du prix de participation à une ligue locale  Annexe A \- Regroupement de l'annexe des tournois régionaux au sein du règlement des ligues locales, et ajout des informations concernant les tournois régionaux du split 2*  |
