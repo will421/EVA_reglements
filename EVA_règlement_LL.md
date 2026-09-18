@@ -1190,9 +1190,13 @@ Le format de cette phase s’effectue tel que :
 
 - 1/4 de finale en BO5  
 - 1/2 de finale en BO5  
-- Petite demie en BO5
+- Petite Finale en BO5
 
-*Les vainqueurs de chaque ½ finale sont qualifiés pour le Last Chance Tournament. Le vainqueur de la petite demie est aussi qualifié, portant le total à 3 équipes qualifiées pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
+*Tournois région Nord :*   
+*Les vainqueurs des demi-finales sont qualifiés pour le Last Chance Tournament. Le vainqueur de la petite finale est aussi qualifié, portant le total à 3 équipes qualifiées pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
+
+*Tournoi région Sud*  
+*Les vainqueurs des demi-finales sont qualifiés pour le Last Chance Tournament, portant le total à 2 équipes qualifiées pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
 
 3. #### Gagnants du Tournoi
 
