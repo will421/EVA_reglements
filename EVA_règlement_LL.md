@@ -1133,10 +1133,10 @@ Chaque salle envoie une équipe en RC.
 
 Par conséquent, les RC sont organisés avec 12 ou 14 ou 16 équipes. Dans le détail : 
 
-- Sud-Est \- \[TBC\] \- **\[TBC\] équipes**  
-- Sud-Ouest \- \[TBC\] \- **\[TBC\] équipes**  
-- Nord-Est \- \[TBC\] \- **\[TBC\] équipes**  
-- Nord-Ouest \- \[TBC\] \- **\[TBC\] équipes**
+- Sud-Est \- Avignon \- **16 équipes**  
+- Sud-Ouest \- Tours \- **14 équipes**  
+- Nord-Est \- Charleroi \- **16 équipes**  
+- Nord-Ouest \- Evreux \- **16 équipes**
 
   2. #### Format du Tournoi
 
