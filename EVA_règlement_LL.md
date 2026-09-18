@@ -625,9 +625,9 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 
 * Avoir les deux genoux au sol / kill immédiat ou au respawn
 
-* Déplacer le genou tout en ayant celui-ci en contact avec le sol / kill immédiat ou au respawn
+* Déplacer le genou tout en ayant celui-ci en contact avec le sol / avertissement puis kill immédiat ou au respawn
 
-  * Ce mouvement est considéré comme une glissade
+  * Ce mouvement est considéré comme une glissade si le genou se déplace de plus d’un demi-carreau. 
 
 * Pivoter sur ce genou au sol, de plus de 90° par rapport à la première position / kill immédiat ou au respawn
 
@@ -652,6 +652,10 @@ Les joueurs doivent également veiller à ne pas avoir de comportement dangereux
 * Lever son casque lors d’une pause technique ou pendant la partie / exclusion temporaire (45 sec) et retour au spawn
 
 * Ne pas avoir les deux mains sur son arme pour tirer / avertissement ou kill au moment du respawn
+
+* Tenir la pièce 3D du capteur PICO avec l’ensemble de la main / avertissement puis kill admin
+
+  * *Note : Il est autorisé d’avoir deux doigts en contact avec la pièce 3D du capteur Pico. Dès lors que 3 doigts sont en contact avec la pièce, la sanction s’applique.* 
 
 * Avoir un coude au sol / kill immédiat ou au respawn
 
