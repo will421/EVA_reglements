@@ -4,7 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
-| *22/09/2026* |  |
+| *22/09/2026* | *Annexe A \- Article 2.2.2. : Modification de la règle d'éligibilité relative au recrutement des joueurs pour compléter le roster participant au tournoi régional.*   |
 | *18/09/2026* | *Article 6.10.1 : Ajout d'une règle sur la tenue de la pièce 3D Article 6.10.1 : Ajout de clarifications sur la règle de la glissade du genou et assouplissement de la sanction relative.  Annexe 1 \- Article 3.1.1 : Ajout des lieux des tournois régionaux et du nombre d'équipes impliquées Annexe 1 \- Article 3.1.2.2 : Modification du nombre de qualifiés pour le Last Chance Tournament suite aux adaptations et aux rajouts de salles dans la compétition.* |
 | *07/08/2026* | *Article 6.14 \- Clarification sur les facemask demandés sur casques HTC et PICO*  |
 | *05/08/2026* | *Article 6.14 \- Ajout des références d’écouteurs intra-auriculaires et adaptateurs autorisés en Ligue Locale à partir du 1er septembre 2026\.*  |
@@ -1217,7 +1217,7 @@ Le format de cette phase s’effectue tel que :
 *Tournoi région Sud*  
 *Les vainqueurs des demi-finales sont qualifiés pour le Last Chance Tournament, portant le total à 2 équipes qualifiées pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
 
-Le Last Chance Tournament le 29 novembre à EVA Paris EST \[à confirmer\].
+Le Last Chance Tournament aura lieu le 29 novembre à EVA Paris EST \[à confirmer\].
 
 4. # **Déroulement des matchs**
 
