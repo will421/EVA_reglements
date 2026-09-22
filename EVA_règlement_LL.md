@@ -4,6 +4,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | *DATE* | *OBJET* |
+| *22/09/2026* |  |
 | *18/09/2026* | *Article 6.10.1 : Ajout d'une règle sur la tenue de la pièce 3D Article 6.10.1 : Ajout de clarifications sur la règle de la glissade du genou et assouplissement de la sanction relative.  Annexe 1 \- Article 3.1.1 : Ajout des lieux des tournois régionaux et du nombre d'équipes impliquées Annexe 1 \- Article 3.1.2.2 : Modification du nombre de qualifiés pour le Last Chance Tournament suite aux adaptations et aux rajouts de salles dans la compétition.* |
 | *07/08/2026* | *Article 6.14 \- Clarification sur les facemask demandés sur casques HTC et PICO*  |
 | *05/08/2026* | *Article 6.14 \- Ajout des références d’écouteurs intra-auriculaires et adaptateurs autorisés en Ligue Locale à partir du 1er septembre 2026\.*  |
@@ -1060,11 +1061,11 @@ L’ensemble des salles EVA sont réparties en 4 régions différentes et chacun
 
      
 
-Les RC sont des tournois spécifiques aux Ligues Locales. Ces tournois font concourir la meilleure équipe de chacune des salles EVA de la zone Europe. Les équipes sont regroupées par région, préalablement définies par l’Organisateur et dont la répartition est trouvable \[à venir\]
+Les RC sont des tournois spécifiques aux Ligues Locales. Ces tournois font concourir la meilleure équipe de chacune des salles EVA de la zone Europe. Les équipes sont regroupées par région, préalablement définies par l’Organisateur et dont la répartition est trouvable sur [cet article](https://blog.eva.gg/tournois-regionaux-split-2). 
 
 Les RC du split 2 ont lieu les dimanches 11 & 18 du mois d’Octobre 2026, et les dimanches 1er & 8 du mois de Novembre 2026\.
 
-L’ensemble des salles EVA sont réparties en 4 régions différentes et chacune d’elles dispose d’une salle EVA qui accueillera le RC de sa région. Ces régions, leur salle d’accueil ainsi que la date de l’événement sont les suivantes : \[Salles annoncées prochainement\]
+L’ensemble des salles EVA sont réparties en 4 régions différentes et chacune d’elles dispose d’une salle EVA qui accueillera le RC de sa région. Ces régions, leur salle d’accueil ainsi que la date de l’événement sont les suivantes : 
 
 - Tournoi Régional \#1 \- Région Sud-Est \- Dimanche 11 octobre 2026  
 - Tournoi Régional \#2 \- Région Sud-Ouest \- Dimanche 18 octobre 2026  
@@ -1102,9 +1103,14 @@ Cette composition peut être complétée par des joueurs éligibles jusqu’à d
 
 *• Exemple : L’équipe Alpha jouant le tournoi de la région Sud-Est devra avoir le roster qu’elle déploiera à la Ligue Locale d’octobre de sa salle.*
 
-→ Chaque équipe participante devra être composée d’un maximum de 7 joueurs & joueuses éligibles et pourra être complétée UNIQUEMENT par des joueurs & joueuses provenant de la salle que représente l’équipe (hors joueurs & joueuses bannis ou sanctionnés) ayant pris part au split 2 de sa ligue locale.
+→ Chaque équipe participante devra être composée d’un maximum de 7 joueurs & joueuses éligibles. La majorité de l'équipe doit être composée de joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale. 
 
-*• Exemple : L’équipe Alpha est composée de 6 joueurs et joueuses éligibles et souhaite recruter un dernier joueur. Elle doit prendre un joueur ou un joueuse d’une équipe issue de sa ligue locale ayant participé à la majorité du split 2 entre mai & septembre (au moins 3 étapes).*
+• Exemple : 
+
+- Une équipe composée de 4 joueurs éligibles doit avoir au moins 3 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.   
+- Une équipe composée de 5 joueurs éligibles doit avoir au moins 3 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.   
+- Une équipe composée de 6 joueurs éligibles doit avoir au moins 4 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.   
+- Une équipe composée de 7 joueurs éligibles doit avoir au moins 4 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.
 
 → Ces recrutements se font sans gel
 
@@ -1132,7 +1138,7 @@ Seules les gourdes, remplies d’eau sont autorisées.
    
 
 Chaque région a été découpée de sorte d’avoir 12 ou 14 ou 16 salles dans cette dernière.  
-Le découpage des régions pourra être retrouvé sur l’article de blog correspondant (publié ultérieurement), sur le site [blog.eva.gg](http://blog.eva.gg).  
+Le découpage des régions pourra être retrouvé sur l’article de blog correspondant), sur le site [blog.eva.gg](http://blog.eva.gg).  
 
 Chaque salle envoie une équipe en RC.
 
@@ -1205,11 +1211,13 @@ Le format de cette phase s’effectue tel que :
 
 3. #### Gagnants du Tournoi
 
-   
+*Tournois région Nord :*   
+*Les vainqueurs des demi-finales sont qualifiés pour le Last Chance Tournament. Le vainqueur de la petite finale est aussi qualifié, portant le total à 3 équipes qualifiées pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
 
-Les deux premières équipes de chaque RC à 14 équipes sont qualifiées pour participer au Last Chance Tournament le 29 novembre à EVA Paris EST \[à confirmer\].
+*Tournoi région Sud*  
+*Les vainqueurs des demi-finales sont qualifiés pour le Last Chance Tournament, portant le total à 2 équipes qualifiées pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
 
-Les trois premières équipes de chaque RC à 16 équipes sont qualifiées pour participer au Last Chance Tournament le 29 novembre à EVA Paris EST \[à confirmer\].
+Le Last Chance Tournament le 29 novembre à EVA Paris EST \[à confirmer\].
 
 4. # **Déroulement des matchs**
 
