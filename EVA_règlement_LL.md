@@ -186,9 +186,14 @@ Dans le cas où une équipe qualifiée perdrait sa place au tournoi régional du
 
 • Exemple : L’équipe Alpha jouant le tournoi de la région Sud-Est devra avoir le roster qu’elle déploiera à la Ligue Locale d’octobre de sa salle.
 
-→ Chaque équipe participante devra être composée d’un maximum de 7 joueurs & joueuses éligibles et pourra être complétée UNIQUEMENT par des joueurs & joueuses provenant de la salle que représente l’équipe (hors joueurs & joueuses bannis ou sanctionnés) ayant pris part au split 2 de sa ligue locale.
+→ Chaque équipe participante devra être composée d’un maximum de 7 joueurs & joueuses éligibles. La majorité de l'équipe doit être composée de joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale. 
 
-• Exemple : L’équipe Alpha est composée de 6 joueurs et joueuses éligibles et souhaite recruter un dernier joueur. Elle doit prendre un joueur ou un joueuse d’une équipe issue de sa ligue locale ayant participé à la majorité du split 2 entre mai & septembre (au moins 3 étapes).
+• Exemple : 
+
+- Une équipe composée de 4 joueurs éligibles doit avoir au moins 3 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.   
+- Une équipe composée de 5 joueurs éligibles doit avoir au moins 3 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.   
+- Une équipe composée de 6 joueurs éligibles doit avoir au moins 4 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.   
+- Une équipe composée de 7 joueurs éligibles doit avoir au moins 4 joueurs issus de la ligue locale représentée ayant joué la majorité du split 2 dans cette même ligue locale.
 
 → Ces recrutements se font sans gel, en accord avec la suppression de cette règle précisée plus haut.
 
