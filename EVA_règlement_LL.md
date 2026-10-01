@@ -227,7 +227,7 @@ Compte tenu du caractère particulier du Jeu Vidéo (en réalité virtuelle avec
 
 5. ## **Comptes nécessaires**
 
-Pour participer à la Ligue Locale, les Participants doivent posséder un compte COMPETITIVE EVA ([https://competitive.eva.gg/](https://competitive.eva.gg/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA ([https://www.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un EVA Pass ([https://www.eva.gg/fr-FR/subscriptions](https://www.eva.gg/fr-FR/subscriptions)).
+Pour participer à la Ligue Locale, les Participants doivent posséder un compte COMPETITIVE EVA ([https\://competitive.eva.gg/](https://competitive.eva.gg/)), un compte DISCORD ([https\://discordapp.com/](https://discordapp.com/)), un compte EVA ([https\://www\.eva.gg/fr-FR](https://www.eva.gg/fr-FR)) et un EVA Pass ([https\://www\.eva.gg/fr-FR/subscriptions](https://www.eva.gg/fr-FR/subscriptions)).
 
 6. ## **Temps de jeu au sein de la salle**
 
@@ -427,7 +427,7 @@ Dans le cas où trois équipes ou plus seraient à égalité de point au classem
 
 5. # **Inscriptions**
 
-Le capitaine ou le responsable de chaque équipe est chargé de l’inscription des joueurs de son équipe dans la Ligue Locale sur EVA COMPETITIVE ([https://competitive.eva.gg/](https://competitive.eva.gg/)) et des informations de chaque joueur de son équipe, qu’il certifie exactes et complètes.
+Le capitaine ou le responsable de chaque équipe est chargé de l’inscription des joueurs de son équipe dans la Ligue Locale sur EVA COMPETITIVE ([https\://competitive.eva.gg/](https://competitive.eva.gg/)) et des informations de chaque joueur de son équipe, qu’il certifie exactes et complètes.
 
 Avant de s’inscrire au tournoi, il est obligatoire pour le capitaine de **créer une équipe via son profil personnel**. Afin d’inscrire cette équipe au tournoi, cette dernière doit être composée de 4 à 7 joueurs.  
 Dans le cas où cette étape ne serait pas respectée, l’équipe inscrite hors règlement sera inéligible à gagner des points.
@@ -813,10 +813,10 @@ En complément des équipements fournis par EVA, le joueur s’engage à jouer a
 - Bonnet anti-transpiration  
 - Facemask avant & arrière \- *Sur casque HTC*  
 - Facemask avant \- Sur Casque PICO :   
-  - \[LIEN PROFESSIONNEL\] Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): [https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/](https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/)   
-  - \[LIEN PROFESSIONNEL\] Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : [https://vr-expert.com/accessories/vr-accessories/pico-4-padding/](https://vr-expert.com/accessories/vr-accessories/pico-4-padding/)   
-  - \[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : [https://fr.aliexpress.com/item/1005004862615572.html](https://fr.aliexpress.com/item/1005004862615572.html)   
-  - \[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : [https://amzn.eu/d/0fH0hNO8](https://amzn.eu/d/0fH0hNO8) 
+  - \[LIEN PROFESSIONNEL\] Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): [https\://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/](https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/)   
+  - \[LIEN PROFESSIONNEL\] Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : [https\://vr-expert.com/accessories/vr-accessories/pico-4-padding/](https://vr-expert.com/accessories/vr-accessories/pico-4-padding/)   
+  - \[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : [https\://fr.aliexpress.com/item/1005004862615572.html](https://fr.aliexpress.com/item/1005004862615572.html)   
+  - \[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : [https\://amzn.eu/d/0fH0hNO8](https://amzn.eu/d/0fH0hNO8) 
 
 En complément des équipements fournis par EVA, le joueur est en mesure de jouer avec son propre matériel audio (à partir du 1er septembre 2026), à savoir : 
 
@@ -1012,9 +1012,9 @@ Les données sont partagées aux services utilisés par les Organisateurs pour l
 
 Dans le cas où des données seraient susceptibles d’être transférées à un sous-traitant, les Organisateurs garantissent avoir pris les précautions nécessaires de sorte à ce que le sous-traitant s’engage à traiter les données conformément aux instructions des Organisateurs et que des mesures de sécurité appropriées aient été prises.
 
-Certaines données sont collectées et traitées par Discord lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Discord est disponible à cette adresse : [https://discord.com/privacy](https://discord.com/privacy).
+Certaines données sont collectées et traitées par Discord lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Discord est disponible à cette adresse : [https\://discord.com/privacy](https://discord.com/privacy).
 
-Certaines données sont collectées et traitées par Toornament lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Toornament est disponible à cette adresse : [https://www.toornament.com/fr/privacy-policy](https://www.toornament.com/fr/privacy-policy).
+Certaines données sont collectées et traitées par Toornament lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Toornament est disponible à cette adresse : [https\://www\.toornament.com/fr/privacy-policy](https://www.toornament.com/fr/privacy-policy).
 
 5. ## **Droit des personnes concernées par le traitement.**
 
@@ -1346,10 +1346,10 @@ Pour rappel, en citation du Règlement Ligue Locale :
 - *Bonnet anti-transpiration*  
 - *Facemask avant \- uniquement sur casque HTC*  
 - *Facemask arrière \- uniquement sur casque HTC*  
-- *\[LIEN PROFESSIONNEL\] Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): https://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/*   
-- *\[LIEN PROFESSIONNEL\] Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : https://vr-expert.com/accessories/vr-accessories/pico-4-padding/*   
-- *\[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : https://fr.aliexpress.com/item/1005004862615572.html*   
-- *\[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : https://amzn.eu/d/0fH0hNO8 “*
+- *\[LIEN PROFESSIONNEL\] Facemask avant PICO noir "Leather Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026): https\://vr-expert.com/accessories/vr-accessories/buy-light-blocking-vr-cover-for-pico-4/*   
+- *\[LIEN PROFESSIONNEL\] Facemask avant PICO gris "Double PU Padding for Pico 4 Series" (applicable à partir du 27 septembre 2026\) : https\://vr-expert.com/accessories/vr-accessories/pico-4-padding/*   
+- *\[LIEN PARTICULIERS\] Facemask avant PICO gris “Coussin facial Original VR Pico 4” (applicable à partir du 27 septembre 2026\) : https\://fr.aliexpress.com/item/1005004862615572.html*   
+- *\[LIEN PARTICULIERS\] Facemask avant PICO noir “AMVR VR Facial Interface Bracket Face Cover for Pico 4/PICO 4 Pro” (applicable à partir du 27 septembre 2026\) : https\://amzn.eu/d/0fH0hNO8 “*
 
 Les écouteurs intra-auriculaires seront autorisés lors des Tournois Régionaux du Split 2, selon les références indiquées dans le Règlement des Ligues Locales. 
 
