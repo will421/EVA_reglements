@@ -91,7 +91,7 @@ Chaque équipe désigne une salle affiliée au sein de laquelle ils doivent fair
 
 6. ## **Comptes nécessaires**
 
-Pour participer à l'EVA Ligue Belge, les participants doivent posséder un compte TOORNAMENT ([https://www.toornament.com/](https://www.toornament.com/)), un compte DISCORD ([https://discordapp.com/](https://discordapp.com/)), un compte EVA avec abonnement ([https://www.eva.gg/fr-FR/battlepass](https://www.eva.gg/fr-FR/battlepass)).
+Pour participer à l'EVA Ligue Belge, les participants doivent posséder un compte TOORNAMENT ([https\://www\.toornament.com/](https://www.toornament.com/)), un compte DISCORD ([https\://discordapp.com/](https://discordapp.com/)), un compte EVA avec abonnement ([https\://www\.eva.gg/fr-FR/battlepass](https://www.eva.gg/fr-FR/battlepass)).
 
 7. ## **Situation sanitaire**
 
@@ -181,7 +181,7 @@ Dans le cas où au moins deux équipes seraient encore à égalité à l’issue
 
 4. # **Inscriptions**
 
-Le capitaine ou le responsable de chaque équipe est chargé de l’inscription des joueurs de son équipe dans l'EVA Ligue Belge sur TOORNAMENT ([https://www.toornament.com/](https://www.toornament.com/)) et des informations de chaque joueur de son équipe, qu’il certifie exactes et complètes.
+Le capitaine ou le responsable de chaque équipe est chargé de l’inscription des joueurs de son équipe dans l'EVA Ligue Belge sur TOORNAMENT ([https\://www\.toornament.com/](https://www.toornament.com/)) et des informations de chaque joueur de son équipe, qu’il certifie exactes et complètes.
 
 Les informations suivantes sont demandés au cours de l’inscription :
 
@@ -680,9 +680,9 @@ Les données sont partagées aux services utilisés par les Organisateurs pour l
 
 Dans le cas où des données seraient susceptibles d’être transférées à un sous-traitant, les Organisateurs garantissent avoir pris les précautions nécessaires de sorte à ce que le sous-traitant s’engage à traiter les données conformément aux instructions des Organisateurs et que des mesures de sécurité appropriées aient été prises.
 
-Certaines données sont collectées et traitées par Discord lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Discord est disponible à cette adresse : [https://discord.com/privacy](https://discord.com/privacy).
+Certaines données sont collectées et traitées par Discord lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Discord est disponible à cette adresse : [https\://discord.com/privacy](https://discord.com/privacy).
 
-Certaines données sont collectées et traitées par Toornament lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Toornament est disponible à cette adresse : [https://www.toornament.com/fr/privacy-policy](https://www.toornament.com/fr/privacy-policy).
+Certaines données sont collectées et traitées par Toornament lors de l’inscription et de l’utilisation de leurs services. La politique de confidentialité de Toornament est disponible à cette adresse : [https\://www\.toornament.com/fr/privacy-policy](https://www.toornament.com/fr/privacy-policy).
 
 5. ## **Droit des personnes concernées par le traitement.**
 
