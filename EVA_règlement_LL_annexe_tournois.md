@@ -5,6 +5,7 @@
 |  | *DERNIÈRES MODIFICATIONS DU RÈGLEMENT* |
 | :---- | :---- |
 | DATE | OBJET |
+| 05/10/26 | MAJ TR SPLIT 2 |
 
 1. # **Généralités**
 
@@ -25,16 +26,16 @@ L’annexe s’impose à :
 
      
 
-Les RC sont des tournois spécifiques aux Ligues Locales. Ces tournois font concourir la meilleure équipe de chacune des salles EVA de la zone Europe. Les équipes sont regroupées par région, préalablement définies par l’Organisateur et dont la répartition est trouvable [ici](https://blog.eva.gg/tournois-regionaux-split-1).
+Les RC sont des tournois spécifiques aux Ligues Locales. Ces tournois font concourir la meilleure équipe de chacune des salles EVA de la zone Europe. Les équipes sont regroupées par région, préalablement définies par l’Organisateur et dont la répartition est trouvable [ici](https://blog.eva.gg/tournois-regionaux-split-2).
 
-Les RC ont lieu les dimanches du mois de Juin 2026, du 7 Juin au 28 Juin.
+Les RC ont lieu les dimanches du mois d’Octobre 2026 & Novembre 2026, du 10 Octobre au 8 Novembre.
 
 L’ensemble des salles EVA sont réparties en 4 régions différentes et chacune d’elles dispose d’une salle EVA qui accueillera le RC de sa région. Ces régions, leur salle d’accueil ainsi que la date de l’événement sont les suivantes : 
 
-- Nord Est \- Lille \- 07/06  
-- Nord Ouest \- Beauchamp \- 14/06  
-- Sud Ouest \- Bordeaux Lac \- 21/06  
-- Sud Est \- Avignon \- 28/06
+- Nord Est \- Charleroi \- 01/11  
+- Nord Ouest \- Evreux \- 08/11  
+- Sud Ouest \- Tours \- 18/10  
+- Sud Est \- Avignon \- 11/10
 
 
 
@@ -45,16 +46,14 @@ Les conditions d'éligibilité générales de cette annexe sont complémentaires
 
 1. ## **Equipes éligibles**
 
-Seules les équipes ayant parvenu à se classer 1ere au classement final de leur Ligue Locale (consultable [ici](https://competitive.eva.gg/fr/circuit/2395738311350114303/competitions/2403694475211311103/regional-leagues)) à date du 30 Avril 2026 sont autorisées à participer aux RC.
+Seules les équipes ayant parvenu à se classer 1ere au classement final de leur Ligue Locale (consultable [ici](https://competitive.eva.gg/fr/circuit/2395738311350114303/competitions/2403694475211311103/regional-leagues)) à date du 30 Septembre 2026 sont autorisées à participer aux RC.
 
 2. ## **Compositions des équipes**
 
    
 
-La composition d’une équipe doit être la même que celle qui a été déclarée lors de l'Étape de Ligue Locale d’avril. Il n’est pas possible d’enlever un joueur de cette composition.  
+La composition d’une équipe doit être la même que celle qui a été déclarée lors de l'Étape de Ligue Locale du mois en cours de la coupe régionale. Il n’est pas possible d’enlever un joueur de cette composition.  
 Cette composition peut être complétée par des joueurs éligibles jusqu’à disposer de 7 joueurs. 
-
-*La non-inscription d’un joueur dans une équipe de LL au mois de mai lui permet donc de rejoindre l’une des équipes pour le RC.*
 
 3. ## **Prix de participation**
 
@@ -79,44 +78,19 @@ Seules les gourdes, remplies d’eau sont autorisées.
 
    
 
-Chaque région a été découpée de sorte d’avoir 12 ou 14 ou 16 salles dans cette dernière.  
-Le découpage des régions peut être retrouvé sur l’article de blog correspondant, sur le site [blog.eva.gg](https://blog.eva.gg/tournois-regionaux-split-1).  
+Chaque région a été découpée de sorte d’avoir 14 ou 16 salles dans cette dernière.  
+Le découpage des régions peut être retrouvé sur l’article de blog correspondant, sur le site [blog.eva.gg](https://blog.eva.gg/en/regional-tournaments-split-2).  
 Chaque salle envoie une équipe en RC.  
-Par conséquent, les RC sont organisés avec 12 ou 14 ou 16 équipes. Dans le détail : 
+Par conséquent, les RC sont organisés avec 14 ou 16 équipes. Dans le détail : 
 
-- Nord Est \- Lille \- **16 équipes**  
-- Nord Ouest \- Beauchamp \- **16 équipes**  
-- Sud Ouest \- Bordeaux Lac \- **14 équipes**  
-- Sud Est \- Avignon \- **12 équipes**
+- Nord Est \- Charleroi \- **16 équipes**  
+- Nord Ouest \- Evreux \- **16 équipes**  
+- Sud Ouest \- Tours \- **14 équipes**  
+- Sud Est \- Avignon \- **16 équipes**
 
   2. #### Format du Tournoi
 
-     1. ##### **12 équipes**
-
-La RC à 12 équipes s’organisent comme suit : 
-
-#### Phase de poules
-
-- 4 poules de 3 équipes  
-- 2 premiers de chaque poule se qualifient pour la phase suivante  
-- Matchs en BO3
-
-  #### Phase à élimination directe
-
-Le placement des équipes des pools dans la phase à élimination directe se fait tel que : 
-
-- 1er \- Poule A vs 2eme \- Poule C  
-- 1er \- Poule B vs 2eme \- Poule D  
-- 1er \- Poule C vs 2eme \- Poule B  
-- 1er \- Poule D vs 2eme \- Poule A
-
-Le format de cette phase s’effectue tel que : 
-
-- 1/4 de finale en BO5
-
-*Les vainqueurs de chaque ¼ finale sont qualifiés pour le Stage 1 de l’EVA Summit. La RC prend fin dès lors que les qualifiés sont connus.\**
-
-2. ##### **14 équipes**
+     1. ##### **14 équipes**
 
 La RC à 14 équipes s’organisent comme suit : 
 
@@ -138,11 +112,12 @@ Le placement des équipes des pools dans la phase à élimination directe se fai
 
 Le format de cette phase s’effectue tel que : 
 
-- 1/4 de finale en BO5
+- 1/4 de finale en BO3  
+- 1/2 Finale en BO5
 
-*Les vainqueurs de chaque ¼ finale sont qualifiés pour le Stage 1 de l’EVA Summit. La RC prend fin dès lors que les qualifiés sont connus.\**
+*Les vainqueurs de chaque ½ finale sont qualifiés pour le LCT. La RC prend fin dès lors que les qualifiés sont connus.\**
 
-3. ##### **16 équipes**
+2. ##### **16 équipes**
 
 La RC à 16 équipes s’organisent comme suit : 
 
@@ -163,15 +138,17 @@ Le placement des équipes des pools dans la phase à élimination directe se fai
 
 Le format de cette phase s’effectue tel que : 
 
-- 1/4 de finale en BO5
+- 1/4 de finale en BO3  
+- 1/2 Finale en BO5  
+- Petite Finale (pour Evreux et Charleroi uniquement) en BO5
 
-*Les vainqueurs de chaque ¼ finale sont qualifiés pour le Stage 1 de l’EVA Summit. La RC prend fin dès lors que les qualifiés sont connus.\**
+*Les vainqueurs de chaque ½ finale sont qualifiés pour le LCT. Le vainqueur de la petite finale est qualifié pour le LCT. La RC prend fin dès lors que les qualifiés sont connus.\**
 
 3. #### Gagnants du Tournoi
 
    
 
-Les quatre premières équipes de chaque RC sont qualifiées pour participer au Stage 1 de l’EVA Summit le 12 juillet à EVA Paris EST..
+Les deux premières équipes des RC Sud & les trois premières équipes des RC Nord sont qualifiées pour participer au LCT le 29 novembre à EVA Paris EST.
 
 4. # **Déroulement des matchs**
 
@@ -190,10 +167,10 @@ Les cartes pouvant être choisies au cours de la Ligue Locale sont les suivantes
 * **Artefact** : mode **DOMINATION**  
 * **Polaris** : mode **DOMINATION**  
 * **The Cliff** : mode **DOMINATION**  
-* **Helios Station** : mode **DOMINATION**  
+* **Outlaw** : mode **HARDPOINT**  
 * **Atlantis** : mode **DOMINATION**  
 * **Engine :** mode **DOMINATION**  
-* **Horizon** : mode **DOMINATION**
+* **Reef Point** : mode **DOMINATION**
 
 Les Organisateurs se réservent la possibilité de modifier les cartes indiquées ci-dessus à tout moment, sous réserve d’en informer les participants avant le début de leur match.
 
@@ -272,6 +249,7 @@ Pour rappel, en citation du Règlement Ligue Locale :
 
 *En complément des équipements fournis par EVA, le joueur s’engage à jouer avec son propre matériel de protection contre la transpiration. A savoir :* 
 
-- *Bonnet anti-Transpiration*
+- *Bonnet anti-Transpiration*  
+- *Facemask PICO*
 
 Lors des Coupes Régionales, le manquement à cette mention sera sanctionné d’un kill admin au début de chaque carte jouée avec un bonnet prêté par la salle.
