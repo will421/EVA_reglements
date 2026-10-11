@@ -1178,7 +1178,7 @@ Le placement des équipes des pools dans la phase à élimination directe se fai
 
 Le format de cette phase s’effectue tel que : 
 
-- 1/4 de finale en BO5  
+- 1/4 de finale en BO3  
 - 1/2 de finale en BO5
 
 *Les vainqueurs de chaque ½ finale sont qualifiés pour le Last Chance Tournament. La RC prend fin dès lors que les qualifiés sont connus.\**
