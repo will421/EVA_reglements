@@ -99,7 +99,7 @@ La composition de l’équipe peut être complétée (jusqu’à 7 joueurs max d
 
 Au minimum deux joueurs de la composition initiale doivent rester inchangés d’une Étape à l’autre du même Segment. A défaut, les points remportés par l’équipe durant le Tournoi pourront être annulés.
 
-A partir de **Janvier 2027**, une équipe de Ligue Locale ne peut contenir au plus que deux personnes dont l’activité professionnelle principale s’effectue au sein d’une salle EVA.
+A partir de **Janvier 2027**, une équipe de Ligue Locale ne peut contenir plus de deux personnes dont l’activité professionnelle principale s’effectue au sein d’une salle EVA.
 
 Deux fois dans l’année, l’historique d’inscription en Ligue Locale de tous les Participants sera effacé, libérant chacun de leur engagement au sein des Ligues Locales. Les historiques seront supprimés aux dates suivantes : 
 
